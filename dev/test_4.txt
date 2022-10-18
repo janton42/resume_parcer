@@ -1,0 +1,89 @@
+Anthony Barker
+370 7th Street, #2
+San Francisco, CA 94103
+Mobile phone: (415) 595-5107
+Email: ant415@gmail.com
+SUMMARY
+
+Team making IT professional with a wealth of experience in Information Systems Security Management, Security Product specification/evaluation/selection/implementation/operations, Identity Management & Access Control, Security Policy, systems security/hardening, physical security, networking, Technical Support/Help Desk Support, Systems Integration, computer operations (mainframe and distributed), scripting, change and configuration management, Software Version Control and Release Management, PC's and peripheral equipment.
+ 
+KEY QUALIFICATIONS
+ 
+    • Over 26 years of experience in Security and System Administration in heterogeneous distributed and mainframe environments.  Specializing in distributed systems, specifically Unix, Linux, and Windows. Variants include current and legacy versions of: Redhat Linux, SUSE, Debian, Fedora HP-UX, Solaris, SunOS, AIX, DEC OSF/1 and LINUX.  Windows Server and Desktop O/S versions from Windows 3 and up to current.
+    • Certified Information Systems Security Professional, CISSP.  3/03
+    • Certified Information Security Manager, CISM.
+    • Completed Salesforce Administrator course (Certification exam scheduled for completion by 11/3/17).
+    • 9 years Military experience.   Rank: E-6, Data Processing Technician/Radioman/Information Systems Technician First, Class Surface Warfare (SW).
+    • Led Wells Fargo’s Military Veterans Team Member Network, Employee Resource Group (ERG), for Northern California for 5 years.
+    • Held Department of Defense Top Secrets SCI security clearance (Special Background Investigation) for 13 years. Lapsed 26 July 2004.
+    • 15 years Database Management experience including Oracle, IBM DB2, INFORMIX, SQL Server, MS Access. Strong SQL query development skills.
+    • 5 years experience working in ADP Computer Operations and trouble desk centers.
+    • Programming Experience: C, C++, Java Enterprise Edition (J2EE, Java EE), JavaScript, FESI, .NET, PowerShell, PERL, Shell Script, ADA, REX (IBM), FORTRAN and BASIC.  I have never worked as a Software Developer as a primary role but have written code, as well as reviewed and enhanced existing code.
+    • Working knowledge of X-Windows and Motif window manager.
+    • 15 years Project Management experience.
+    • Flexible, self-starter, dependable, adaptable.
+
+RELEVANT SKILLS
+ 
+    • Myriad IT experience:  Have worked on enterprise class servers from IBM, HP, Compaq, Sun, DEC, SGI, and Dell; IBM 9221, 9321, 3090/400 & 180 Mainframes, Digital Vax ES9000, PDP 11/70, 11/785, PC’s and related Peripheral equipment.
+    • X500, LDAP, Active Directory, XML, XSLT, SOAP, Struts, JMS, EJB
+
+EMPLOYMENT
+ 
+Wells Fargo Services Company, San Francisco, CA, Technology Manager & Senior Information Security Analyst/Engineer, 01 November 1999 – October 2016
+
+Participated in the evaluation, development, and implementation of security standards, procedures, and guidelines for multiple platforms and diverse systems environments. Participated in the evaluation, development, testing and implementation of emerging data access control technologies, information systems security products, safeguards and techniques. Provided security consulting and project management services on complex issues related to information security, identity management, data access, integrity, confidentiality and business continuity. Assisted customers in identifying security risks to their applications and implementing appropriate data security procedures and products. Maintained and fostered awareness of corporate security policies and government regulations pertaining to information security. Performed many responsibilities concurrently, supporting multiple applications and projects simultaneously. 
+
+3/09 – 10/16 – Manager, Identity Management Technical Solutions. Lead and managed a team of up to 13 FTEs and 7 Contingent Workers in support of the Wells Fargo Enterprise level Identity Management and Access Control platform.  Managed a multi-million dollar budget, team strategy, vendor relationships, hardware depreciation and lifecycle, staff management, training.   I owned more than 10 Sarbanes-Oxley, SOX, controls and attested/certified compliance on a quarterly basis.
+7/03 – 2/09 – Team Lead, Identity Management Technical Services, support 24x7 operations of Enterprise Identity Management solution, IBM Tivoli Identity Manager, TIM/ITIM.  Implemented automated provisioning/de-provisioning for Active Directory LAN and Exchange email accounts.  Responsible for technical support of underlying tiers: WebSphere Application Server (WAS), IBM DB2, IBM Tivoli Directory Server (LDAP).  Worked closely with customers to understand and automate their business processes, determine their needs, set expectations, and continually improve processes.  Extended LDAP Schemas.  Created and/or extended policy driven TIM workflows to automate business logic.  Performed unit and integration testing.  Developed custom agent connectors.  Implemented Single Sign-On using CA/Netegrity Siteminder (Piloted Tivoli Access Manager).  Coordinated and conducted Business Continuity Exercise and Maintenance tasks.  Ensured Change Control procedures are adhered to.  Acted as liaison with vendors for troubleshooting, S/W upgrades, and product awareness.
+5/02 –  7/03 – Team Lead , PowerBroker Application Support – Lead a Team of Senior Information Security Analysts and Engineers providing 24x7 support of critical security products/applications in a mixed environment of over 3000 Unix servers.  Helped create a system for tracking and controlling software licensing and deployment.  Project Manager for 2 enterprise rollouts (over 3000 servers).
+8/02 – 3/03 – Project Manager/Security Consultant/Business Analyst for the Unix Resource Manger, URM, Replacement project.  Developed requirements for replacing a Third Party Vendor product with an in-house solution with outsourced development.  Helped create the RFP.  Participated in obtaining and reviewing bids.
+11/99 – 8/02 – Developed the software release management process.  Performed Software Release Management functions for Security Product Services Division released software products.  Duties included software build management, Quality Assurance (QA), version control using IBM/Rational Software's ClearCase, release planning and distribution, and system administration.  Managed all aspects (design, physical access security, procurement, installation, operations, power requirements/config, etc.) for the original Host/Network Based Intrusion Detection, HIDS/NIDS, lab.
+11/99 – 5/02 – Software Release Manager, District Systems/Infrastructure Manager:  Coordinated systems integration and provided System Administration support for production, development, and test server environments consisting of approximately 100 heterogeneous Unix (HP, IBM, SUN, DEC/COMPAQ, RedHat Linux) and Intel based servers.  Designed a development lab for extremely sensitive Host Based Intrusion Detection Systems, HIDS.  Involved in all aspects of building the lab, specifying and ordering equipment, determining power requirements/consumption, implementing secured access, security caging, hardware racking, networking, facilities, and layout of ergonomic work areas.
+
+Additional Roles at Wells Fargo
+03/10 – 10/16 – Served as President of the Veterans Team Member Network, VTMN, for Northern California.  Duties included: Evangelist and demonstrator for the value of Military Veterans within the organization, established and coordinated volunteer events within local communities to teach financial responsibility/hands-on banking at local schools, provided outreach with Veteran centric organizations such as VetsInTech, Swords to Plowshares, Warriors to Summits, No Barriers Warriors, Team RWB, Veterans2Work, East Bay Stand Down, SF Fleet Week, and USS Hornet Museum (CV-12).
+Served as Director of the San Francisco Veterans Day Parade and Memorial Day Ceremonies.
+5/03 – 9/12 – Encryption Key Manager, responsible for loading encryption keys for IBM mainframes, Atalla, and Magtek units.
+8/00 – 10/16 – Served as Building Emergency Coordinator – responsible for the life safety of over 1000 personnel and training of the Building Emergency Team.  Led evacuation drills, ensured inventory of emergency supplies, acted as liaison with Fire Marshal.
+
+Afloat Planning Systems Pacific, Camp Smith, HI, System Administrator/Database Administrator, 1995 - 1999
+Tomahawk Afloat Planning Suite System Manager.  Suite included Tomahawk Planning and Mission Distribution Systems, Digital Imagery Workstation Afloat, and related communications/networking systems.
+Supported Battle Group Strike Warfare Commanders, Military Intelligence, and Special Warfare (Navy SEAL) communities in real world operations.  Planning and distributing Tomahawk Cruise Missile missions, providing briefings to senior officers, coordinating strikes, participating in battle damage assessments.
+System Administrator Duties included:  Keeping systems up 24x7, system configuration, system account maintenance, backups/archives, networking, capacity planning, file maintenance, security, scripting, user support and training.  Informix DataBase Management.
+Supported network data and voice communications on UHF (line of sight), SHF, EHF bands on antenna and satellite equipment.
+Developed and maintained UNIX scripts and system tools that dramatically reduced the workload of computer operators, increased productivity and prevented system lockups.  Created a message parsing system for military tactical data that reduced a 12+ hour validation process to less than 1 minute, a process that was adopted fleet wide.
+
+Team Player.  Worked as a member of highly technical Mission Planning Teams (APS Teams 1 and 3) deploying all over the Western Pacific and Middle Eastern regions in support of real world Military Operations.
+
+USS White Plains (AFS-4), Agaña Guam, SNAP I System Supervisor, 1994 -1995
+Supervised a 24x7 shipboard computer operations center supporting Aircraft Carrier Battle Group supply system on Honeywell DPS 6 (AN/YUK 65) computer system.  Scheduled/Executed production jobs, batch reports, and system backups.
+Created AZ7 queries and reports, supply requisitions and NAVMASSO updates.
+Supervised and performed system operations and maintenance and PC support for various systems and personnel ship wide.
+
+Atlantic Intelligence Command, Norfolk, VA, Computer Operator/Tech Support 1991 -1994
+Supervised the operation of a $50 million (1991) Complex Intelligence Data Processing Center and Technical Support Trouble Desk that provided worldwide Military Intelligence support.
+Assisted in the performance of system analysis duties including the modification of REX and ADA programs on IBM mainframes.  Provided help desk support for over 2500 users world wide on 10 different Top Secret computing systems.  Provided training to computer operations division, USCINCLANT Staff and personnel. Automated a logging system for Computer Operations Supervisors.
+
+Acted as an alternate facilities manager responsible for all maintenance and support aspects of a Top Secret SCIF building including testing physical security, monitoring alarms, building maintenance and system installations.
+ 
+EDUCATION
+ 
+Hawaii Pacific University, course work for B.S. in Management Information Systems, 1999
+UC Berkeley Extension, Project Management Professional Certification Review Course.
+Palo Alto Networks Cybersecurity: Firewall Essentials, Accredited Configuration Engineer (ACE) Certified
+IBM WebSphere 5.1 Administrator CBT
+International Information Systems Security Certification Consortium (ISC)2 CISSP CBK Review.
+JavaScript I and II, Bay Area Video Coalition (BVAC)
+IBM Tivoli Directory Integrator, ITDI, connector workshop.
+Leading Dispersed Teams.
+MIS Training Institute- Fundamentals of Information Security. 
+HP Practical Internet and Network Security, 9/02 
+Global Information Assurance Certification (GIAC) – SANS Security Essentials. 
+Rational University, Santa Clara, CA:  Certificates for ClearCase Fundamentals, ClearCase Meta-Data, and ClearCase Administration.
+
+Radioman 2000 conversion training, 6 month in depth computer and communications training.
+Tomahawk Database Manager Advanced Training, Navy and Marine Corps Intelligence Training Center, Damn Neck, VA, 3/95
+Data Processing "C" School, SNAP I Supervisor, SSC, San Diego, CA, 2/94
+Data Processing "A" School, SSC, San Diego, CA, 12/90
+Numerous additional Military Training courses – list available upon request

@@ -1,0 +1,1007 @@
+line,label
+Bernard Foster,Name
+"Smyrna, GA 30082                                                Cell (404) 661-6742  bernarddfoster@gmail.com",Contact
+"Bernard Foster is a Solutions Architect with a vast amount of Salesforce, CRM and CLOUD implementation and consulting experience for client organizations in the consumer goods, government, telecommunications, high-tech manufacturing and utilities industries.  Additionally, he is also a certified Salesforce Administrator.  Expert skills include strategic assessment, design and implementation expertise in application development and systems integration.  Bernard holds a Bachelor of Science degree in Industrial Engineering and is an Oracle Certified Consultant.  He has consistently maintained a very high utilization rate (+ 90%), has personally generated over $4 million in services revenue during his consulting career, and excels in transforming customer requirements into application functionality.",Summary
+Professional Experience,Heading
+"Research 1, Inc                              Salesforce Administrator/Consultant                          January 2013 to Present",Unknown
+"As a Salesforce Administrator in Research 1's Information Technology organization, Bernard delivers full lifecycle Salesforce implementations to the client using the Salesforce Sales application.  He is responsible for supporting clients with all Salesforce related issues. Additionally, his responsibilities include application customizations, implementation of validation rules, data imports/exports, workflow processes and approval processes.  Also responsible for using Workbench to interact with SFDC organizations via the Force.com APIs.",Bullet
+"• Served as the Salesforce Administrator for Research 1 and delivered a custom application from planning and analysis to implementation and deployment.  This is a highly customized application and consists of several Custom Objects, Custom Fields, Page Layouts, Custom Tabs, Reports and Dashboards along with various other components as per the client and application requirements.  Also responsible for role hierarchy, custom profiles and public groups creation and user management.",Bullet
+"• Responsible for gathering requirements via documentation, questionnaires, and interviews with stakeholders and management teams.  Conducted meetings with engineering and management teams fully describing desired features and operations in detail, including screen layouts, business rules, process diagrams, pseudo code, and design documentation.",Bullet
+"• Responsible for troubleshooting and resolving technical issues related to the Salesforce implementation.  Set the technical direction for the overall Salesforce Application direction by researching and recommending new concepts.  Responsible for the overall health of the entire application platform and provides expertise in working with Data Import Wizard, Apex Data Loader and Workbench for Data Management.",Bullet
+Oracle                                                        Solutions Architect                                               August 2013 to Present,Unknown
+"As a Solutions Architect in Oracle's Global Information Technology organization, Bernard delivers full lifecycle implementations to clients using Oracle Service Cloud and Right Now (CX) applications and manages the technical aspects of enterprise level implementations with the assistance of project technical resources.",Bullet
+"• Served as the Solutions Architect for Oracle’s internal clients and delivered a custom application from conceptualization to Phase 1 Go-Live.  The application is an international application consisting of several Custom Objects and numerous Validation Rules, Workflow Process and Data Loads.",Bullet
+"• Responsible for the overall health of Global Linux Mid-Tier servers, providing technical expertise in the Incident Management process and working within the Incident/Request queue ensuring that the underlying cause of all incidents are addressed.  Additionally, responsible for ensuring all customer service level agreements (SLA) are fulfilled.",Bullet
+"• Worked closely with cross function teams including sales, engineering, product development and related organizations.",Bullet
+Oracle                                                       Principal Engineer                                             July 2012 to August 2013,Unknown
+"As a Principal Engineer in Oracle’s Global Information Technology organization, Bernard led a technical team providing second level support for business customers, maintained communication with management providing input on identifying issues and providing a resolution path and managed the deployment of quick fixes and patches to the development, stage and production environments.",Bullet
+• Served as the Lead Architect responsible for conducting and actively participating in project meetings during software development lifecycle. Provided expertise in evaluation of testing requirements throughout duration of project.  Expert troubleshooting and problem solving skills with success at issue resolution.,Bullet
+"• Responsible for the integration of Oracle, Siebel, and PeopleSoft applications with the Contact Center Anywhere (CCA) telephony application.",Bullet
+"• Coordinated the deployment of quick fixes, patches, and enhancements to resolve issues for more than 60 servers located around the globe.  Putty, WinRar and Filezilla, provided access to UNIX servers for maintenance, deployment of CCA and TAW war files, database backups, and periodic updates to call center resources.",Bullet
+Oracle                                                       Principal Consultant                                             July 2006 to July 2012,Unknown
+"As a Principal Consultant in Oracle’s consulting organization, Bernard has led application configuration teams on various full life cycle implementations. Technical skills include Siebel Tools 8, 7.x/ Configuration/Workflow/EIM/eScript/Actuate Reports. Domain experience includes Siebel eCommunications, Siebel Call Center, Siebel Public Sector and Siebel Sales and Service along with defined Business Strategy and Architecture Road Maps with corporate CIOs to set corporate initiatives.",Bullet
+"• Administered regular meetings to provide the customer with updates on project deliverables, discuss project documentation, and provide weekly status reports on project details.",Bullet
+"• Configured Account, Contact and Address Management as per the client requirements.  Additional configuration included creating custom Business Objects, Business Components, and Fields along with custom Screens, Views, and Applet Controls per requirements.",Bullet
+"• Created virtual Business Component with custom code for additional functionality and validation.  Worked on Business Services and eScript to implement business functionality in Contact and Address Management as per the business requirements.  Implemented declarative configuration alternatives using data validations, user properties, workflows and run time events as opposed to extending the functionality of the application using Siebel eScript.",Bullet
+"Siebel Systems, Inc                                    Siebel Architect                                                 August 2005 – July 2006",Unknown
+"Responsible for communicating directly with customer IT personnel on the design, development, and implementation of Siebel CTI Call Center for Siebel eCommunications application.  This included conducting gap analysis, gathering business requirements, and the development of design documentation.",Bullet
+"• Completed installation and configuration of the Genesys GPlus Adapter Voice Component for Siebel 7, development and integration of the CTI definition file to meet customer business requirements.  Additional responsibilities included identifying, troubleshooting and resolving CTI related issues.",Bullet
+"• Completed hands on application configuration and customization of the CTI toolbar.  This included using eScript with custom business services to provide advanced screen pop capabilities, customization of command events used with outbound calls, and additional customization of inbound call events.",Bullet
+"• Led weekly team meetings to provide customer with updates on project deliverables, discuss project documentation, and provide weekly status reports on project details.  Also communicated with call center managers from around the globe to discuss the impact of any issues, corrective actions taken and desired resolutions.  Consulted with management personnel on the implementation of solutions required for resolving any production related issues.",Bullet
+"Siebel Systems, Inc                                       Principal Consultant                                    January 1999 – July 2005",Unknown
+• Managed the implementation of Siebel CTI Call Center application and Genesys Gplus Adapter.  Implementation included replacing the customer’s existing MTS VIC application with Siebel’s Call Center module functionality.  This required both advanced configuration of Siebel Communication business objects to meet requirements of the Siebel CTI toolbar and advanced customization of business services to meet requirements of the inbound call screen pop to Accounts screen.,Bullet
+• Consolidated inbound screen pop data to meet customer requirements of populating fields with the most important call information necessary for the call. Completed detailed design documentation of CTI functional requirements and proposed resolutions.,Bullet
+"• Led daily status meetings with customer to provide updates on Siebel CTI and call coding implementation, GPlus Adapter configuration, and issue resolution.",Bullet
+"• Successfully completed the customization of outbound dialing filter rules used by the NPA NXX and line numbers.  This involved creating a new Siebel project, several business service methods, and modification of the dialing rules section.  Additional responsibilities included configuring hoteling features giving multiple agents the ability to log into one computer, modification of the Siebel JS library files to implement Call Hold Timer and After Call Work Timer, and the addition of non-standard items to the Siebel CTI toolbar.",Bullet
+Education,Heading
+"Southern Polytechnic State University, Marietta, GA (SPSU)",Unknown
+Bachelor of Science in Industrial Engineering,Degree
+United States Marine Corps/USAF Reserves/Operation Desert Storm Veteran,Unknown
+Certifications,Heading
+• Salesforce Administrator Certification,Certification
+"• Oracle Service Cloud Application, Right Now (CX) Cloud",Certification
+• Oracle Knowledge Application,Certification
+• Apttus Quote to Cash (QTC) Certification (CPQ Module),Certification
+https://www.linkedin.com/in/bernard-foster-1243184,Unknown
+ANISUZZAMAN KHAN,Name
+PROFESSIONAL SUMMARY,Heading
+"3X Certified Salesforce Administrator, Professional Scrum Master, Business Analyst and Military Veteran with over 8 years of proven ability to interact and collaborate with multiple levels of management and diverse cultural audiences. Accomplished measurable results while leading teams in a dynamic, fast - paced environment. Comprehensive background in Territory Management encompassing sales and business analysis derived from conducting domestic and global operations.",Summary
+• Emergency Administration,Bullet
+• Team Leadership,Bullet
+• Conflict Resolution,Bullet
+• Training and Development,Bullet
+• Project Management,Bullet
+•    Business Continuity Preparedness,Bullet
+• Resource Allocation,Bullet
+• International Relations,Bullet
+PROFESSIONAL EXPERIENCE,Heading
+• Design complex integrations to facilitate seamless interactions between multiple systems to provide real time information to Commercial Teams and for automation of Pipeline reporting.,Bullet
+• Manage monthly enhancement releases delivering top priority platform enhancements/change requests along with fixing critical production defects. Works closely with each platform to implement prioritization processes to ensure that the highest impact requests are delivered.,Bullet
+• Manage multiple global social media Salesforce.com (SFDC) software projects simultaneously across numerous application teams throughout the product development life cycle.,Bullet
+"• Manage the process from project initiation, vendor selection, scoping, resource planning, budgeting, agile development, change management through to production release",Bullet
+"• Identify opportunities for process optimization, process redesign and development of new process and policies",Bullet
+• Lead all quantitative and qualitative data efforts / collection / execution in support of projects and lead cross-functional teams to redesign core business processes and reporting.,Bullet
+"• Manage implementation of large-scale, complex, multi-disciplined, cross functional and highly visible projects/programs and develop training materials as needed.",Bullet
+• Manage technical problems to solve complex technical issues and maintenance of SF architecture.,Bullet
+Salesforce Administrator and Operation Analyst,Title
+"• Manages user permissions, roles, case management rules, role hierarchy rules, and other user activities",Bullet
+"• Manages the creating and updating of workflows, workflow approval processes, modifying customize objects, fields, and pick list values",Bullet
+"• Collaborates with executives and sponsors to identify the requirements, project objective, and scope changes",Bullet
+• Solves the user cases on daily basis and communicate with users globally to fix issues,Bullet
+"• Develops complex reports in IBM Cognos Report Studio to create lists, charts, cross-tab, Dashboard and automated reports with the features like drill-through and conditional formatting to assist the business team",Bullet
+• Implements Case Management Automation (on Case Object) to track and solve end users’ issues while maintaining the highest level of record security as well regular maintenance of SF health checks and data clean-ups.,Bullet
+"• Responsible for all activities related to configuring data loader, uploading data into CSV files to Salesforce, making sure imported data is clean",Bullet
+"• Reviews the project charter, and BRD  to ensure that all business requirements and technical design criteria are met",Bullet
+Salesforce Business Analyst/Administrator,Title
+• Interacted with various business team members to gather the requirements and documented the requirements,Bullet
+"• Designed, diagnosed and implemented Salesforce.com security model for 130 users including setup of profiles, organization wide defaults, territories, roles and sharing rules, Cloud, Chatter & App-exchange applications",Bullet
+• Involved in Salesforce Application Setup activities and customized the apps to match the functional needs of the organization and the technical support team.,Bullet
+"• Used Salesforce Automation (SFA) for Sales Lead Management, Account and Contact Management and Approvals and Workflows keeping the end user in mind.",Bullet
+• Managed the UAT testing efforts with business users from legacy CRM systems,Bullet
+• Implemented formal change management (CR) process and provided training to implementation team to eliminate scope creep,Bullet
+"• Worked in close coordination with the Informatica integration team to define, diagnose and map system objects, data elements and transformation logic between systems",Bullet
+"• Assisted additional teams responsible for integrations to/from SAP, DW, Billing and other legacy systems",Bullet
+"• Actively assisted the system administration and deployment teams on configuration, deployment and implementation procedures and best practices.",Bullet
+• Responsible for deployment to production including management of deployment logs and go-live release schedule,Bullet
+Business Analyst,Title
+"• Consulted with business team to identify, define and document business needs and objectives, current operational procedures, problems, input and output requirements. Developed detailed functional and technical requirements from the high-level business requirements shared by stakeholders; prioritized the requirements for development",Bullet
+• Developed an understanding of how present and future business needs will impact the solution; developed a risk analysis document. Provided guidance to the project team regarding the in-depth business domain and assist them in technology development. Participated in multiple Agile Ceremonies at various stages of the project,Bullet
+"United States Army, Fort Jackson, SC                                                                                                          2007 – 2011",Unknown
+Healthcare Specialist,Title
+• Supervised 10 personnel and managed the Urgent Care Clinic at Moncrief Army Community Hospital.,Bullet
+"• Conducted physical health assessments to increase personnel readiness, and completed administrative requirements and safety/risk management courses. Adhered to medical protocols and organizational procedures at all times, and collaborated with other staff members for cohesive operations",Bullet
+EDUCATION,Heading
+"University of Oklahoma, Norman, OK",Unknown
+"Bachelor of Science, Petroleum Engineering",Degree
+"University of Dhaka, Bangladesh",Unknown
+"Bachelor of Social Science, Economics",Degree
+TRAINING / CERTIFICATIONS,Heading
+"Salesforce Administrator, Platform App Builder, Platform Developer 1 Certification",Certification
+"Professional Scrum Master 1 Certification, Lean Six Sigma Green Belt Certification",Certification
+"Languages: Bengali, English, Hindi, French, Arabic",Skill
+"Eclipse, CMG, Salesforce, Visual Basic, Java, R, Python, SQL Server, SSRS, MS Access, Oracle, Matlab, Maple,  IBM Cognos, JIRA, Tableau, Business Objects XI, T-SQL, PL/SQL.",Skill
+Willis Stowe,Name
+5807 Boxelder Dr.,Contact
+"Whitestown, IN 46075",Contact
+765-412-5670,Contact
+wirstowe@gmail.com,Contact
+PROFESSIONAL EXPERIENCE,Heading
+ELEVATE VENTURES,Unknown
+Business Applications Analyst,Title
+"INDIANAPOLIS, INDIANA",Unknown
+March 2017 – Present,Unknown
+Managed Salesforce organization of 20 users as primary administrator,Bullet
+Created several projects using Visualforce pages and Apex,Bullet
+Managed Office 365 and SharePoint environment for 20 users,Bullet
+HERRON HIGH SCHOOL,Unknown
+Intern,Unknown
+"INDIANAPOLIS, INDIANA",Unknown
+August 2015 – March 2017,Unknown
+Assisted director of operations in physical safety and security of students and staff.,Bullet
+Worked on several projects for school involving school website and SalesForce program.,Bullet
+Managed move and support of school server room.,Bullet
+HOME DIRECT USA,Unknown
+Direct Recovery Team Member,Title
+"PLAINFIELD, INDIANA",Unknown
+December 2012- January 2015,Unknown
+Responsible for physical tracking of inbound returned products.,Bullet
+Handled physical inspections and quality of returned products.,Bullet
+Oversaw transfer of warehouse inventory to new location.,Bullet
+CINTAS,Unknown
+Health and Safety Team Member,Title
+"INDIANAPOLIS, INDIANA",Unknown
+December 2010 - December 2012,Unknown
+Responsible for keeping two locations up to OSHA standards.,Bullet
+Led training seminars for up to 30 partners.,Bullet
+Worked on inventory management under AS 400 software.,Bullet
+UNITED STATES ARMY,Unknown
+Firefighter,Title
+"CAMP ATTERBURY, INDIANA",Unknown
+October 2005 - March 2010,Unknown
+Responsible for daily upkeep of all station equipment.,Bullet
+Performed emergency response duties for service location of 200 people.,Bullet
+Entered and maintained all electronic copies of incident report per national standard.,Bullet
+EDUCATION,Heading
+"IVY TECH COMMUNITY COLLEGE INDIANAPOLIS, INDIANA",Unknown
+"IUPUI INDIANAPOLIS, INDIANA",Unknown
+Bachelor of Science in Computer Information Technology,Degree
+ADDITIONAL SKILLS,Heading
+"Salesforce Certified Administrator, Advanced Administrator, and Platform App Builder",Skill
+Anthony Barker,Name
+"370 7th Street, #2",Contact
+"San Francisco, CA 94103",Contact
+Mobile phone: (415) 595-5107,Contact
+Email: ant415@gmail.com,Contact
+SUMMARY,Heading
+"Team making IT professional with a wealth of experience in Information Systems Security Management, Security Product specification/evaluation/selection/implementation/operations, Identity Management & Access Control, Security Policy, systems security/hardening, physical security, networking, Technical Support/Help Desk Support, Systems Integration, computer operations (mainframe and distributed), scripting, change and configuration management, Software Version Control and Release Management, PC's and peripheral equipment.",Summary
+KEY QUALIFICATIONS,Heading
+"• Over 26 years of experience in Security and System Administration in heterogeneous distributed and mainframe environments.  Specializing in distributed systems, specifically Unix, Linux, and Windows. Variants include current and legacy versions of: Redhat Linux, SUSE, Debian, Fedora HP-UX, Solaris, SunOS, AIX, DEC OSF/1 and LINUX.  Windows Server and Desktop O/S versions from Windows 3 and up to current.",Unknown
+"• Certified Information Systems Security Professional, CISSP.  3/03",Certification
+"• Certified Information Security Manager, CISM.",Certification
+• Completed Salesforce Administrator course (Certification exam scheduled for completion by 11/3/17).,Certification
+"• 9 years Military experience.   Rank: E-6, Data Processing Technician/Radioman/Information Systems Technician First, Class Surface Warfare (SW).",Unknown
+"• Led Wells Fargo’s Military Veterans Team Member Network, Employee Resource Group (ERG), for Northern California for 5 years.",Unknown
+• Held Department of Defense Top Secrets SCI security clearance (Special Background Investigation) for 13 years. Lapsed 26 July 2004.,Certification
+"• 15 years Database Management experience including Oracle, IBM DB2, INFORMIX, SQL Server, MS Access. Strong SQL query development skills.",Bullet
+• 5 years experience working in ADP Computer Operations and trouble desk centers.,Bullet
+"• Programming Experience: C, C++, Java Enterprise Edition (J2EE, Java EE), JavaScript, FESI, .NET, PowerShell, PERL, Shell Script, ADA, REX (IBM), FORTRAN and BASIC.  I have never worked as a Software Developer as a primary role but have written code, as well as reviewed and enhanced existing code.",Skill
+• Working knowledge of X-Windows and Motif window manager.,Bullet
+• 15 years Project Management experience.,Bullet
+"• Flexible, self-starter, dependable, adaptable.",Skill
+RELEVANT SKILLS,Heading
+"• Myriad IT experience:  Have worked on enterprise class servers from IBM, HP, Compaq, Sun, DEC, SGI, and Dell; IBM 9221, 9321, 3090/400 & 180 Mainframes, Digital Vax ES9000, PDP 11/70, 11/785, PC’s and related Peripheral equipment.",Bullet
+"• X500, LDAP, Active Directory, XML, XSLT, SOAP, Struts, JMS, EJB",Unknown
+EMPLOYMENT,Heading
+"Wells Fargo Services Company, San Francisco, CA, Technology Manager & Senior Information Security Analyst/Engineer, 01 November 1999 – October 2016",Unknown
+"Participated in the evaluation, development, and implementation of security standards, procedures, and guidelines for multiple platforms and diverse systems environments. Participated in the evaluation, development, testing and implementation of emerging data access control technologies, information systems security products, safeguards and techniques. Provided security consulting and project management services on complex issues related to information security, identity management, data access, integrity, confidentiality and business continuity. Assisted customers in identifying security risks to their applications and implementing appropriate data security procedures and products. Maintained and fostered awareness of corporate security policies and government regulations pertaining to information security. Performed many responsibilities concurrently, supporting multiple applications and projects simultaneously.",Bullet
+"3/09 – 10/16 – Manager, Identity Management Technical Solutions. Lead and managed a team of up to 13 FTEs and 7 Contingent Workers in support of the Wells Fargo Enterprise level Identity Management and Access Control platform.  Managed a multi-million dollar budget, team strategy, vendor relationships, hardware depreciation and lifecycle, staff management, training.   I owned more than 10 Sarbanes-Oxley, SOX, controls and attested/certified compliance on a quarterly basis.",Bullet
+"7/03 – 2/09 – Team Lead, Identity Management Technical Services, support 24x7 operations of Enterprise Identity Management solution, IBM Tivoli Identity Manager, TIM/ITIM.  Implemented automated provisioning/de-provisioning for Active Directory LAN and Exchange email accounts.  Responsible for technical support of underlying tiers: WebSphere Application Server (WAS), IBM DB2, IBM Tivoli Directory Server (LDAP).  Worked closely with customers to understand and automate their business processes, determine their needs, set expectations, and continually improve processes.  Extended LDAP Schemas.  Created and/or extended policy driven TIM workflows to automate business logic.  Performed unit and integration testing.  Developed custom agent connectors.  Implemented Single Sign-On using CA/Netegrity Siteminder (Piloted Tivoli Access Manager).  Coordinated and conducted Business Continuity Exercise and Maintenance tasks.  Ensured Change Control procedures are adhered to.  Acted as liaison with vendors for troubleshooting, S/W upgrades, and product awareness.",Bullet
+"5/02 –  7/03 – Team Lead , PowerBroker Application Support – Lead a Team of Senior Information Security Analysts and Engineers providing 24x7 support of critical security products/applications in a mixed environment of over 3000 Unix servers.  Helped create a system for tracking and controlling software licensing and deployment.  Project Manager for 2 enterprise rollouts (over 3000 servers).",Bullet
+"8/02 – 3/03 – Project Manager/Security Consultant/Business Analyst for the Unix Resource Manger, URM, Replacement project.  Developed requirements for replacing a Third Party Vendor product with an in-house solution with outsourced development.  Helped create the RFP.  Participated in obtaining and reviewing bids.",Bullet
+"11/99 – 8/02 – Developed the software release management process.  Performed Software Release Management functions for Security Product Services Division released software products.  Duties included software build management, Quality Assurance (QA), version control using IBM/Rational Software's ClearCase, release planning and distribution, and system administration.  Managed all aspects (design, physical access security, procurement, installation, operations, power requirements/config, etc.) for the original Host/Network Based Intrusion Detection, HIDS/NIDS, lab.",Bullet
+"11/99 – 5/02 – Software Release Manager, District Systems/Infrastructure Manager:  Coordinated systems integration and provided System Administration support for production, development, and test server environments consisting of approximately 100 heterogeneous Unix (HP, IBM, SUN, DEC/COMPAQ, RedHat Linux) and Intel based servers.  Designed a development lab for extremely sensitive Host Based Intrusion Detection Systems, HIDS.  Involved in all aspects of building the lab, specifying and ordering equipment, determining power requirements/consumption, implementing secured access, security caging, hardware racking, networking, facilities, and layout of ergonomic work areas.",Bullet
+Additional Roles at Wells Fargo,Heading
+"03/10 – 10/16 – Served as President of the Veterans Team Member Network, VTMN, for Northern California.  Duties included: Evangelist and demonstrator for the value of Military Veterans within the organization, established and coordinated volunteer events within local communities to teach financial responsibility/hands-on banking at local schools, provided outreach with Veteran centric organizations such as VetsInTech, Swords to Plowshares, Warriors to Summits, No Barriers Warriors, Team RWB, Veterans2Work, East Bay Stand Down, SF Fleet Week, and USS Hornet Museum (CV-12).",Unknown
+Served as Director of the San Francisco Veterans Day Parade and Memorial Day Ceremonies.,Unknown
+"5/03 – 9/12 – Encryption Key Manager, responsible for loading encryption keys for IBM mainframes, Atalla, and Magtek units.",Bullet
+"8/00 – 10/16 – Served as Building Emergency Coordinator – responsible for the life safety of over 1000 personnel and training of the Building Emergency Team.  Led evacuation drills, ensured inventory of emergency supplies, acted as liaison with Fire Marshal.",Unknown
+"Afloat Planning Systems Pacific, Camp Smith, HI, System Administrator/Database Administrator, 1995 - 1999",Unknown
+"Tomahawk Afloat Planning Suite System Manager.  Suite included Tomahawk Planning and Mission Distribution Systems, Digital Imagery Workstation Afloat, and related communications/networking systems.",Unknown
+"Supported Battle Group Strike Warfare Commanders, Military Intelligence, and Special Warfare (Navy SEAL) communities in real world operations.  Planning and distributing Tomahawk Cruise Missile missions, providing briefings to senior officers, coordinating strikes, participating in battle damage assessments.",Unknown
+"System Administrator Duties included:  Keeping systems up 24x7, system configuration, system account maintenance, backups/archives, networking, capacity planning, file maintenance, security, scripting, user support and training.  Informix DataBase Management.",Bullet
+"Supported network data and voice communications on UHF (line of sight), SHF, EHF bands on antenna and satellite equipment.",Bullet
+"Developed and maintained UNIX scripts and system tools that dramatically reduced the workload of computer operators, increased productivity and prevented system lockups.  Created a message parsing system for military tactical data that reduced a 12+ hour validation process to less than 1 minute, a process that was adopted fleet wide.",Bullet
+Team Player.  Worked as a member of highly technical Mission Planning Teams (APS Teams 1 and 3) deploying all over the Western Pacific and Middle Eastern regions in support of real world Military Operations.,Bullet
+"USS White Plains (AFS-4), Agaña Guam, SNAP I System Supervisor, 1994 -1995",Unknown
+"Supervised a 24x7 shipboard computer operations center supporting Aircraft Carrier Battle Group supply system on Honeywell DPS 6 (AN/YUK 65) computer system.  Scheduled/Executed production jobs, batch reports, and system backups.",Bullet
+"Created AZ7 queries and reports, supply requisitions and NAVMASSO updates.",Unknown
+Supervised and performed system operations and maintenance and PC support for various systems and personnel ship wide.,Unknown
+"Atlantic Intelligence Command, Norfolk, VA, Computer Operator/Tech Support 1991 -1994",Unknown
+Supervised the operation of a $50 million (1991) Complex Intelligence Data Processing Center and Technical Support Trouble Desk that provided worldwide Military Intelligence support.,Unknown
+"Assisted in the performance of system analysis duties including the modification of REX and ADA programs on IBM mainframes.  Provided help desk support for over 2500 users world wide on 10 different Top Secret computing systems.  Provided training to computer operations division, USCINCLANT Staff and personnel. Automated a logging system for Computer Operations Supervisors.",Bullet
+"Acted as an alternate facilities manager responsible for all maintenance and support aspects of a Top Secret SCIF building including testing physical security, monitoring alarms, building maintenance and system installations.",Unknown
+EDUCATION,Heading
+"Hawaii Pacific University, course work for B.S. in Management Information Systems, 1999",Degree
+"UC Berkeley Extension, Project Management Professional Certification Review Course.",Certification
+"Palo Alto Networks Cybersecurity: Firewall Essentials, Accredited Configuration Engineer (ACE) Certified",Certification
+IBM WebSphere 5.1 Administrator CBT,Certification
+International Information Systems Security Certification Consortium (ISC)2 CISSP CBK Review.,Certification
+"JavaScript I and II, Bay Area Video Coalition (BVAC)",Training
+"IBM Tivoli Directory Integrator, ITDI, connector workshop.",Training
+Leading Dispersed Teams.,Unknown
+MIS Training Institute- Fundamentals of Information Security.,Training
+"HP Practical Internet and Network Security, 9/02",Training
+Global Information Assurance Certification (GIAC) – SANS Security Essentials.,Certification
+"Rational University, Santa Clara, CA:  Certificates for ClearCase Fundamentals, ClearCase Meta-Data, and ClearCase Administration.",Certification
+"Radioman 2000 conversion training, 6 month in depth computer and communications training.",Training
+"Tomahawk Database Manager Advanced Training, Navy and Marine Corps Intelligence Training Center, Damn Neck, VA, 3/95",Training
+"Data Processing ""C"" School, SNAP I Supervisor, SSC, San Diego, CA, 2/94",Training
+"Data Processing ""A"" School, SSC, San Diego, CA, 12/90",Training
+Numerous additional Military Training courses – list available upon request,Training
+NICHOLAS COLGIN,Name
+720-809-2584,Contact
+ncolgin@gmail.com,Contact
+https://www.linkedin.com/in/nickcolgin,Contact
+PROFESSIONAL SUMMARY,Heading
+Operations Manager and Military Veteran with 4 years of proven experience in the United States Army.,Summary
+"Accomplished measurable results while leading teams of 3 – 30 personnel in dynamic, fast - paced environments.",Summary
+Possesses a comprehensive background in Program Development and Staffing derived from conducting,Summary
+"domestic and global operations. Managed risk upon multiple lines to protect assets, property, and equipment valued",Summary
+over $2M while meeting the expectations of senior leadership. Possesses extensive knowledge in Fund,Summary
+"Management, Training Development, and Program Evaluation. Vast experience in Salesforce, exceeding 5+",Summary
+years and includes certification as a Salesforce Administrator. Recipient of multiple awards for outstanding,Summary
+performance and professionalism to include the Bronze Star Medal. Career supported by vast operational,Summary
+experience.,Summary
+● Program Management,Skill
+● Team Building,Skill
+● Public Speaking,Skill
+● Salesforce Administration,Skill
+● Fundraising,Skill
+● Database Management,Skill
+● Marketing,Skill
+● Event Planning,Skill
+● Microsoft Office Suite,Skill
+PROFESSIONAL EXPERIENCE,Heading
+"STARBUCKS – Loveland, CO",Organization
+Manager,Title
+● Operated and managed a Starbucks location with an annual revenue of $2M,Bullet
+"● Managed a diverse staff of 20+ individuals, consistently promoting inclusion",Bullet
+"● Responsible for revenue forecasting, inventory controls, purchasing, scheduling, and daily operations",Bullet
+"● Responsible for hiring, onboarding, training, and ongoing development of all employees",Bullet
+2016,Date
+"NO BARRIERS WARRIORS – Fort Collins, CO",Organization
+2013 – 2016,Date
+Critical Systems Manager,Title
+"● Designed events and learning based programming for veterans with disabilities, ranging from 1 to 14 days",Bullet
+with over 300 participants annually,Bullet
+"● Managed the recruitment, hiring, training, and continuing development of all staff, permanent and",Bullet
+temporary,Bullet
+● Acted as primary program representative on development and fundraising efforts that resulted in over $1M,Bullet
+in grants being awarded to the organization for continued programming,Bullet
+Program Manager,Title
+"● Generated and reconciled individual expedition budgets and created custom budget, reimbursement, and",Bullet
+expense objects within Salesforce,Bullet
+"● Supervised evaluation distribution, collection, and data input to ensure program metrics were being utilized",Bullet
+● Implemented expedition risk management and safety measures and created a Salesforce based risk,Bullet
+"management database, risk management manual, and established eligibility criteria for program participation",Bullet
+"● Oversaw the screening and selection of 500 applicants for program participation, a 400% increase from the",Bullet
+previous year,Bullet
+Team Leader,Title
+"● Lead course planning, to include itinerary creation, route planning, food and equipment organization, and",Bullet
+"experiential learning for multi-day expeditions for veterans with amputations, visual impairment, traumatic",Bullet
+"brain injuries, and post-traumatic stress disorder resulting in successful ascents of multiple 19K ft. peaks",Bullet
+● Conducted the pitch that led to the largest and most successful partnership for the program which has been,Bullet
+renewed annually since 2014NICHOLAS COLGIN,Bullet
+PAGE TWO,Unknown
+__________________________________________________________________________________________,Unknown
+"RIGHT AT HOME – Springfield, MA",Organization
+2013 – 2014,Date
+Owner/CEO,Title
+● Cultivated investors for initial investment of $250K to form a home care company,Bullet
+"● Worked with doctors, nurses, and social workers to recommend our services to individuals deemed as an",Bullet
+appropriate fit yielding $15K in monthly revenue and reaching financial break-even in under 6 months,Bullet
+● Developed and oversaw a staff of 30 employees with roles ranging from office staff to certified nursing,Bullet
+assistant,Bullet
+"IRAQ AND AFGHANISTAN VETERANS OF AMERICA (IAVA) – New York, NY",Organization
+2010 – 2013,Date
+Support Fund Coordinator/Membership Coordinator,Title
+● Planned and executed national events ranging from 100 to 1000 attendees for a 300K member organization,Bullet
+● Maintained relationships with major donors through weekly metrics based reports resulting in multiple six,Bullet
+figure donations including one individual donation of $400K,Bullet
+● Created and implemented original fund infrastructure and procedures during the first year of the fund,Bullet
+"● Utilized Salesforce extensively to create, modify, and optimize reports and connecting forms to the database",Bullet
+for over 300K contact records,Bullet
+UNITED STATES ARMY – Various Locations,Organization
+2004 – 2008,Date
+Healthcare Specialist,Title
+● Managed all aspects of the day-to-day medical care of over 300 individuals assigned to unit,Bullet
+● Maintained 100% accountability of medical equipment valued at over $1.2M with zero loss or damage,Bullet
+● Delivered life-saving medical treatment to critically injured personnel while under fire resulting in being,Bullet
+awarded the Bronze Star Medal for heroic achievement,Bullet
+VOLUNTEER EXPERIENCE,Heading
+"Co-founder, Mission Memorial Day | 2015 – Present",Volunteer
+"Leader, Paradox Sports | 2014 – 2016",Volunteer
+"State Leader, Adaptive Climbing Group | 2014",Volunteer
+"Volunteer, Calling All Crows | 2012",Volunteer
+"Cinema Coordinator, University of Wisconsin – Stevens Point| 2010 – 2012",Volunteer
+EDUCATION/CERTIFICATIONS,Heading
+"Bachelor of Strategic Communications, University of Colorado, Boulder – Pending",Degree
+Fullbridge Business Fundamentals – 2013,Training
+National Outdoor Leadership School (NOLS) – 2012,Training
+SELECT AWARDS,Heading
+Bronze Star Medal,Award
+Army Achievement Medal (5),Award
+"University of Wisconsin, Stevens Point, Chancellors Leadership Award",Award
+CERTIFICATIONS,Heading
+Salesforce Certified Administrator,Certification
+SALESFORCE COURSES,Heading
+ADM201: Administration Essentials for New Admins,Training
+ADM211: Administration Essentials for Experienced Admins,Training
+Jeff Stock,Name
+"JAntonStock@gmail.com | (707) 301-8624 | Belmont, CA | linkedin.com/in/stockj",Contact
+Experience,Heading
+Independent Russian Translation Consultant : APR ’15 – Present,Title
+● National Language Service Corps member.,Bullet
+ThoughtSpot: Sales Development Rep: JAN ‘17 - JUN ‘17,Title
+● Contributed to the only team to exceed quota in Q1.,Bullet
+Oracle: Sales Development Rep : JUN ’15 - APR ‘16,Unknown
+● Generated over $1m in new pipeline opportunities per quarter.,Bullet
+● Exceeded quota each quarter.,Bullet
+U.S. Marine Corps: NOV ’01 - SEP ‘10,Organization
+Russian Linguist and Signals Intelligence Team Manager: 2001 – 2006,Title
+"● Led a 7 person SIGINT collection team in and around Fallujah, Iraq during Operation Iraqi Freedom II/III.",Bullet
+● Responsible for over $1.5m military equipment.,Bullet
+● 0 casualties during 10 months of in-theater operations.,Bullet
+"● Provided direct, tactical SIGINT support to various U.S. Infantry and Special Forces",Bullet
+Units.,Bullet
+● Identified and located high-value targets and persons of interest.,Bullet
+Russian Interpreter (Defense Threat Reduction Agency): 2006 – 2010,Bullet
+"● Interpreted between Russian and English during treaty compliance inspections, and various diplomatic and military-to-military events.",Bullet
+● Regularly exceeded expectations for 3+ years for intelligence collection.,Bullet
+● Developed expertise at conventional weapons recognition.,Bullet
+● Selected over peers for ad-hoc diplomatic and collection missions.,Bullet
+"● Senior Russian linguist and sometimes sole bilingual U.S. representative during several multinational training events, military exercises, and diplomatic conferences.",Bullet
+● 4+ years of senior executive interaction.,Bullet
+Education,Heading
+University of California: Berkeley - MAY ‘15,Organization
+● BA – Linguistics,Degree
+● Cal Veterans Group President,Volunteer
+"● Managed 501c3, non-profit organization providing support systems, networks and events for US Military Veterans in higher education.",Bullet
+"● Created and implemented sustainable process for recruiting and retaining active members, which lead to an increase in group membership of over from 9 to over 50.",Bullet
+Defense Language Institute: JUL ‘10,Organization
+● AA – Russian,Degree
+"● 3rd Platoon, Squad Leader",Title
+● Tutor,Volunteer
+Skilled in:,Heading
+● Presentations,Skill
+● Public Speaking,Skill
+● Communication,Skill
+● Project Management,Skill
+● Organization,Skill
+● Problem Solving,Skill
+● Writing,Skill
+● Attention to Detail,Skill
+● Troubleshooting,Skill
+● Teamwork,Skill
+● Data Management,Skill
+Familiar with:,Skill
+● Python,Skill
+● CSS,Skill
+● Django,Skill
+● Javascript,Skill
+● SQL,Skill
+● Excel,Skill
+● Heroku,Skill
+● Linux,Skill
+● Salesforce,Skill
+● Microsoft Office,Skill
+● Sandler Sales Method,Skill
+● Java,Skill
+● Object Oriented Programming,Skill
+● HTML,Skill
+● Git,Skill
+Jeff Stock,Name
+"JAntonStock@gmail.com | (707) 301-8624 | San Mateo, CA",Contact
+linkedin.com/in/stockj | github.com/janton42,Contact
+Experience,Heading
+1. Upwork: Dec ‘17 - Present,Organization
+"Program Manager, Data Analytics and Infrastructure: JAN ‘21 - Present",Title
+"● Managed a team of analysts, auditors, and program administrators responsible for:",Bullet
+○ Ad hoc contingent worker data analysis and reporting in support of all business,Bullet
+"units (product, marketing, engineering, human resources, finance and legal)",Bullet
+"○ Data analysis infrastructure improvements, such as:",Bullet
+"■ Designing, creating and launching self-service dashboards in Google",Bullet
+Data Studio and Looker,Bullet
+"■ Supporting the design, development, and implementation of a direct",Bullet
+integration of contingent worker data between the Upwork platform and,Bullet
+Workday through data validation and subject matter expertise.,Bullet
+"○ Program administration support, including:",Bullet
+"■ Maintaining accurate, thorough records of onboarding/offboarding,",Bullet
+"systems access provisioning/deprovisioning, equipment issuance and",Bullet
+retrieval,Bullet
+"■ End-to-end process improvements for all CWP tasks, including partnering",Bullet
+with product and engineering teams to drive improvements on the Upwork,Bullet
+platform.,Bullet
+Associate Program Manager: JAN ‘20 - DEC ‘20,Title
+● Evangelized the contingent workforce program (CWP); managed and executed,Bullet
+company-wide education; drove program adoption and compliance.,Bullet
+"● Advised, influenced, and provided thought leadership on the current contingent",Bullet
+workforce experience; anticipated future program needs through data analysis and,Bullet
+interpretation of internal business and external marketplace trends,Bullet
+"● Owned performance metrics for the contingent workforce program activities, including:",Bullet
+○ Program usage and compliance,Bullet
+"○ Service level targets, OKRs, and savings",Bullet
+"● Collaborated with Legal team to define, then operationalize and implement policies inline",Bullet
+with company’s risk profile,Bullet
+● Main point of escalation for resolution complex CWP issues,Bullet
+● Managed multiple projects,Bullet
+● Ad hoc contingent worker data analysis and reporting in support of all business units,Bullet
+"(product, marketing, engineering, human resources, finance)",Bullet
+Talent Innovation Specialist: AUG ‘18 - DEC ‘19,Title
+● Onboarding task,Bullet
+● Worker classification decisions,Bullet
+● Ad hoc data analysis and reporting,Bullet
+● Hiring manager training,Bullet
+Mid-Market Account Executive: DEC ‘17 - AUG ‘18,Title
+"● Inside, B2B sales of freelance management and hiring platform.",Bullet
+2. Self-Employed: Independent Russian Translation Consultant: APR ’15 - Present,Title
+"● Translate legal documents, website content, marketing material, etc. for clients all over",Bullet
+the world.,Bullet
+● National Language Service Corps member.,Bullet
+3. ThoughtSpot: Sales Development Rep: JAN ‘17 - JUN ‘17,Title
+"● Inside, B2B sales of business intelligence technology platform.",Bullet
+4. Oracle: Sales Development Rep: JUN ’15 - APR ‘16,Title
+"● Order fulfillment and selling of products and services in high volume, low value,",Bullet
+short-cycle transactions using telephone sales.,Bullet
+5. U.S. Marine Corps: NOV ’01 - SEP ‘10,Organization
+Russian Interpreter: 2006 - 2010,Title
+● Interpreted between Russian and English during Conventional Forces Europe (CFE) and,Bullet
+Vienna Document of 1999 (VD99) treaty compliance inspections in several Former,Bullet
+Soviet Republics and Western European countries while assigned to the Defense Threat,Bullet
+"Reduction Agency in Darmstadt, Germany.",Bullet
+"● Provided single-source, high-value intelligence, not available by any other means.",Bullet
+● Regularly exceeded expectations for 2+ years for intelligence collection.,Bullet
+● Developed expertise at conventional weapons recognition.,Bullet
+● Selected over peers for 2+ years for ad-hoc diplomatic and collection missions.,Bullet
+● Senior Russian linguist and sometimes sole bilingual U.S. representative during several,Bullet
+"multinational training events, military exercises, and diplomatic conferences.",Bullet
+● 4+ years of senior executive-level interaction.,Bullet
+Russian Linguist and Signals Intelligence Team Manager: 2001 - 2006,Bullet
+"● Led a 7 person SIGINT collection team in and around Fallujah, Iraq during Operation",Bullet
+Iraqi Freedom (OIF II and OIF III),Bullet
+"● Monitored, transcribed, and translated intercepted target communications.",Bullet
+"● Installed, operated, and performed preventative maintenance of intercept",Bullet
+equipment.,Bullet
+"● Provided direct, tactical SIGINT support to various U.S. Infantry and Special",Bullet
+Forces units.,Bullet
+● Identified and located high value targets and persons of interest.,Bullet
+Education,Heading
+University of California: Berkeley - MAY ‘15,Organization
+● BA - Linguistics,Degree
+Defense Language Institute: JUL ‘10,Organization
+● AA – Russian,Degree
+Kevin Garrett,Name
+"San Francisco, Ca",Location
+https://www.linkedin.com/in/kevingarrett,Contact
+Mr.kevin.garrett@gmail.com,Contact
+Salesforce Certified Administrator,Skill
+Navy veteran and Salesforce Administrator|Consultant|Trainer|Learner with experience in showing client how to use Salesforce to automate processes and add value to their organization,Skill
+Professional Development,Heading
+Salesforce University,Organization
+"Administration Essentials for Experienced Admins, Virtual                                                  May 2017 ",Training
+Intensive online course designed to give existing Salesforce admins advance administrator skills to expand the scope and complexity of configuring Salesforce orgs in classic or Lightning,Training
+"Npower, San Mateo, Ca                                                                                                                    January 2016 to July 2016",Organization
+Earned the CompTIA A+ Certification and give them hands on training in tech.,Bullet
+Trained in ServiceNow and used ServiceNow case support to service customers for Stanford Hospital,Bullet
+Palo Alto Networks                                                                                                                                                January 2017,Organization
+"Firewall: Install, Configure, and Manage (EDU-201)",Training
+Attended 5-day course on configuring Palo Alto Networks Firewalls. Earned the Accredited Configuration Engineer (ACE) Exam - PAN-OS 7.0 Version,Training
+Trailhead,Organization
+Completed over 20 badges and projects.,Bullet
+• Created an Apex Class,Bullet
+•   Salesforce CPQ Basics,Training
+• Added a Standard Controller to Visualforce page,Training
+• Reports & Dashboards,Training
+• Added a Method to the Class,Training
+• Invoked and Tested the code,Training
+Experience,Heading
+Salesforce Administrator/ Solution Consultant                                                                  January 2017 to Present,Title
+"Assist organization in training staff and stake holders in using and implementing new and enhanced features and capabilities within Salesforce. Collaborate with stakeholders to create, test and deploy solutions within Salesforce. Understanding of Partner Relationship Management by optimizing Partner Life Cycle",Bullet
+Partner Portal Design and Implementation Team,Bullet
+"• Contributed to layout and design of community templates for Partner, customer and community portals",Bullet
+• Help create Rollout Strategy,Bullet
+• Enabled Employee and Partner communities within Salesforce,Bullet
+• Managed sandboxes and performed testing,Bullet
+• Migrated Communities from Sandbox to Production,Bullet
+"Vietnamese Youth Development Center (VYDC), San Francisco, CA                        July 2017 Present",Organization
+• Gathered requirements to design custom solution to aid organizations in decision making and expanding their organization’s capabilities,Bullet
+"• Assist organization in training staff and stake holders in using and implementing new and enhanced features and capabilities within Salesforce. Collaborate with stakeholders to create, test and deploy solutions.",Bullet
+• Created custom reports and dashboards that outlined clients program engagement and participation and send out monthly reports to stake holders,Bullet
+• Automated manual reporting requirements that resulted in a time reduction of over 50 percent,Bullet
+Ashby Village                                                                                                         March 2017 to Present,Organization
+• Advised clients in choosing 3rd party apps form the App Exchange based on business requirements,Bullet
+• Advise client on Data Management Best Practices and to migrate data to Salesforce Data Loader,Bullet
+• Gathered business requirements for clients to automate business processes through creating            workflow rules and process builder,Bullet
+"• Created email notifications, email alerts, and auto responses for client",Bullet
+"• Creating end user training videos, technical documentation, and online knowledge base to support wide spread adoption and buy end from users throughout the organization",Bullet
+"Menlo Park VA Medical Center, Menlo Park, CA                                                         October 2015 to July 2017",Organization
+Case Manager,Title
+Treatment team member that provided inpatient treatment services in a residency program. Program is geared towards providing patient education,Bullet
+• Initiated and designed a Prototype housing web app from program requirements,Bullet
+• Designed an information system that allowed healthcare providers the ability to streamline training and        resources centered around the issue of Veteran Homelessness,Bullet
+"Menlo Park VA Medical Center, Menlo Park, CA                                                  August 2014 to September 2015",Organization
+Peer Support Housing Specialist,Title
+Accessed and maintained Patient records in accordance with HIPAA and other applicable Patient Privacy laws.,Bullet
+"• Designed an Information System that allowed Treatment Team members to collect, access and update critical patient’s data securely even in a field environment of limited to no network connectivity",Bullet
+• Provided individual instruction on navigating and accessing apartment searches through online based apartment databases,Bullet
+Shared Governance Coordinator,Title
+"• Promoted, organized, and created campus wide events and campaigns spread awareness about accreditation and participatory governance that resulted in thousands of students attending the events",Bullet
+• Gave weekly & monthly reports to stakeholders,Bullet
+Student Senator,Title
+"• Promoted a variety of events, actively participated as the student representative in many college committees including: Curriculum, Educational Policy, and College Governance.",Bullet
+Education                          ,Heading
+Chrisey Hillgen,Name
+"Hebron, KY",Contact
+(859) 808-0399,Contact
+chriseyhillgen@gmail.com,Contact
+SKILLS,Heading
+Salesforce,Skill
+Microsoft Excel,Skill
+Microsoft Office,Skill
+Microsoft Word,Skill
+SPS Commerce,Skill
+Global Workplace Solutions,Skill
+RF Scanners,Skill
+ASN’s,Skill
+Retail Compliance,Skill
+Detail Orientation,Skill
+Team Work,Skill
+Problem Solving,Skill
+EXPERIENCE,Heading
+"UPS SCS, Hebron, KY -",Organization
+Warehouse Associate II,Title
+August 2017 - PRESENT,Date
+"• Inbound processing, scanning orders, shipping and receiving, put-a-way, data entry into computerized inventory control systems and inventory control.",Bullet
+"• Loading and unloading, packing and unpacking and auditing",Bullet
+"First Hospital Wyoming Valley , Wilkes Barre, PA -",Organization
+Mental Health Technician,Title
+January 1999 - November 2001,Date
+"•  Organize, supervise and encourage patient participation in educational and recreational activities.",Bullet
+"• Document patient treatment interventions, behavior and progress.",Bullet
+"US Army  ,Various Locations-",Organization
+Human Resources Specialist,Title
+• 2004  -  2006 (3 years),Date
+• Maintain and process personnel records.,Bullet
+• Prepare and process requests for transfer or reassignment.,Bullet
+• Process classification/ reclassification actions.,Bullet
+• Prepare orders and requests for orders.,Bullet
+• Prepare and maintain officer and enlisted records.  Prepare and review casualty documents.,Bullet
+•  Process documents for awards and decorations.,Bullet
+• Post changes to Army regulations. Maintain files on automated data processing system.,Bullet
+• Knowledge of provision and limitations of Freedom of Information and Privacy Acts.,Bullet
+Bridge Crewmember,Title
+"•  2002  -  2004 (3 years) Assist in assembly, erection and disassembly of floating and fixed prefabrication bridges.",Bullet
+• Use and maintain hand tools. Assist in rigging.,Bullet
+"• Prepares and operates assault boats. Reads, interprets, and plots maps, overlays and photos.",Bullet
+• Assists with tactical operations. Provides engineer bridging for streams and dry gaps,Bullet
+Heavy Equipment Operator,Title
+• 1997  -  2002 (6 years),Date
+"•  Operate wheeled tractors with dozer attachments, scoop loaders, motorized grader, towed or self propelled scraper and crawler.",Bullet
+"• Clear strips, rough -  grades, excavates, backfills, levels, slopes, cuts, ditches and stockpiles with crawler, wheeled tractor with dozer attachment and scoop loader.",Bullet
+"• Loads equipment for movement drive tractor -  trailer for hauling, performing operator maintenance and assists mechanics; assist in combat engineer missions.",Bullet
+Volunteer,Title
+USO,Organization
+February 2017 - Present,Date
+Girl Scouts of Kentucky Wilderness,Organization
+2014 - Present / Co- Leader ( Aug 2017 - Present),Unknown
+EDUCATION,Heading
+"Claremont Graduate University - Peter F. Drucker Graduate School of Management, Certificate",Organization
+MBA Essentials with Salesforce Applications,Training
+"April 24, 2017",Date
+Salesforce University Certificate,Certification
+ADM 201 Administration Essentials for New Admins,Training
+"May 22, 2017 - May 26, 2017",Date
+"Interservice Training Review Organization Certification, Construction/Heavy Equipment/Earthmoving Equipment Operation,",Certification
+August 1998 -  October 1998,Date
+Vetforce,Organization
+Trailhead training in multiple areas  and continue to expand knowledge areas.,Training
+FEDVTE,Training
+Coding,Skill
+Critical Infrastructure Protection,Training
+Reverse Engineering,Training
+Advanced PCAP Analysis and Signature Development,Training
+Advanced Windows Scripting,Training
+Cloud Computing Security,Training
+CompTIA A+,Training
+CompTIA Network,Training
+Cyber Risk Management,Training
+Cyber Security Investigations,Training
+DOD IA Boot Camp,Training
+Mobile and Device Security,Training
+Offense and Defensive Network Operations,Training
+Root Cause Analysis,Training
+Radio Frequency Identification Security,Training
+Securing Infrastructure Devices,Training
+AWARDS,Heading
+Army Service Ribbon,Award
+National Defense Service Medal,Award
+Kentucky Service Ribbon,Award
+The Army Reserve Components Achievement Medal,Award
+Matthew Lloyd,Name
+620 Cassia St Redwood City CA 94063,Contact
+(707) 624-5847 msplloyd@hotmail.com https://www.linkedin.com/in/matthew-lloyd/,Contact
+Qualifications &amp; Skills,Heading
+"● Working knowledge of standard,",Skill
+specialty and craft cocktails,Skill
+● Knowledgeable of craft beer and wine,Skill
+● Excellent in multi-tasking with precision,Skill
+and speed,Skill
+"● Highly adaptable, fast learner",Skill
+● Adept with bar inventory and scheduling,Skill
+● Friendly and enthusiastic,Skill
+● Successful in creating bar promotions,Skill
+continually increasing revenue,Skill
+● Demonstrates outstanding professional,Skill
+relations,Skill
+● Able to work long shifts standing and,Skill
+walking,Skill
+● Knowledgeable in accounting and,Skill
+financial practice,Skill
+● Carries current Food Handler and,Skill
+Responsible Beverage Service Permits,Skill
+● Knowledgeable in Oregon Lottery,Skill
+procedures,Skill
+Experience,Heading
+Portland City Grill/ Kincaids Jul 2021 - Present,Organization
+Portland OR/ Burlingame CA,Location
+Bartender/ Server,Title
+"Provide tableside and bartop services in an upscale fine dining establishment in downtown Portland, and",Bullet
+"bayside in Burlingame. Maintain working knowledge of Chef&#39;s specials, Wine list, cocktails and bar and",Bullet
+dining menus. Provide drinks for up to 500 guests in a shift while working at the service bar. Adopt a,Bullet
+personalized approach in providing excellent service to both regular and rotating guests. Follow Covid,Bullet
+sanitization and cleaning protocols,Bullet
+Magic Inn Jul 2020 - Jan 2022,Organization
+NE Portland OR,Location
+Bartender,Title
+Provide friendly bartender service and self manage a neighborhood bar in Southeast Portland. Get to know,Bullet
+and care for regular clients while building a following of new regular guests. Maintain a welcoming and,Bullet
+"clean environment for guests throughout COVID-19 times. Create food and beverage menu,cook and",Bullet
+"manage kitchen, provide service at bar, table and lottery machines.",Bullet
+Casa Del Matador Jul 2018 - Jan 2020,Organization
+NW Portland OR,Location
+Bartender,Title
+"Provide friendly and knowledgeable lunch, dinner, happy hour and late night bar service in a very fast",Certification
+paced tequila bar and Oaxacan themed restaurant. Adhere to rigorous and stringent prep schedules.,Bullet
+"Master house craft cocktails, and maintain extensive knowledge of tequila and house recipes. Keep bar,",Bullet
+dining and work areas welcoming and tidy,Bullet
+Ranger Station Dec 2016 - May 2018,Organization
+Portland OR,Location
+Bartender,Title
+"Mix and infuse juices, and liquors according to projected business, Maintain liquor inventory, Master abd",Bullet
+"create house craft cocktails, and maintain knowledge of classic and new cocktails, Keep bar, dining and",Bullet
+"work areas clean, Provide full dinner service to guests throughout establishment,",Bullet
+Club Mallard/ Kona Club Sep 2015 - Sep 2016,Organization
+Albany CA,Location
+Bartender,Title
+"Maintain a fun, clean, and dynamic environment for new and regular guests. Provide entertaining, excellent",Bullet
+full bar service in a high volume neighborhood pool room and locals bar. Develop a popular seasonal,Bullet
+cocktail menu and daily specials with colleagues. Book and serve private events and cocktail parties. Mix,Bullet
+and infuse juices and alcohol for house cocktails Maintain working knowledge of local craft beers. Track,Bullet
+"inventory of alcohol, mixers, and bar supplies.",Bullet
+Belo Ultra Lounge Feb 2013 - May 2015,Organization
+Vacaville CA,Location
+Bar Manager/ Bartender/ Promotions Manager,Title
+"Prepared and executed employee schedules for a staff of 20+ FOH employees, Prepared mixed drinks;",Bullet
+"poured wine, beer and nonalcoholic beverages in a very high volume club and restaurant. Successfully ran",Bullet
+"a number of promotions including a Blues Jam, EDM night, and a Service Industry Night to increase",Bullet
+"revenues and volume on slower days. Maintain a working knowledge of specialty and standard cocktails,",Bullet
+"and craft beer. Consistently created new cocktails, and house cocktail menus, and sold a very high volume",Bullet
+Education,Heading
+"University of California, Berkeley Aug 2013 - Aug 2016",Organization
+Graduated August 2016 Bachelors of Science in Nutrition Science- Physiology and Metabolism,Degree
+Haas Public Service Leader,Title
+Alternative Breaks Leader,Title
+UC Men’s Choral Ensemble Manager,Title
+Suitcase Clinic Case Manager,Title
+"Solano Community College, Fairfield CA Jun 2010 - May 2013",Unknown
+Graduated May 2013Associates Degrees Earned: General Science; Science and Quantitative Reasoning;,Degree
+Social Science; Liberal Studies,Degree
+Phi Theta Kappa Honors Society,Organization
+Alpha Gamma Sigma Honors Society,Organization
+Solano Haiti Health and Education Partnership Student Chairperson,Title
+American Medical Students Association President,Title
+Math Engineering and Science Achievement Program Officer,Title
+Society for the Advancement of Chicano and Native American Scientists President,Organization
+References,Heading
+Available upon request,Unknown
+Hello.,Unknown
+Liezele Dizon-Tosco,Name
+PROFILE,Heading
+"Mother of two, entrepreneur/veteran spouse with a proven ability to remain agile during",Summary
+times of uncertainty. Seeking an opportunity that will allow me the opportunity to build,Summary
+"upon Salesforce concepts I’m familiar with, and fuel my desire in continuing to learn the",Summary
+Salesforce CRM platform.,Summary
+EXPERIENCE,Heading
+"S A L E S F O R C E A D M I N , R O N I N D E V ; B AY A R E A , C A 0 7 . 2 0 1 7 - P R E S E N T",Title
+Gathering the necessary account requirements to successfully strategize and plan each,Bullet
+"project, and implement those plans to meet organizational needs to streamline their",Bullet
+overall sales process.,Bullet
+"A C C O U N T I N G S P E C I A L I S T, R O N I N D E V ; B AY A R E A , C A 1 2 . 2 0 1 6 - P R E S E N T",Title
+Implemented QuickBooks to invoice clients and reconcile ledger account. Create,Bullet
+monthly income/expense report for co-founders. Process payroll for employees and,Bullet
+contractors.,Bullet
+E D U C AT I O N,Heading
+"S A N J O S E S TAT E U N I V E R S I T Y / / S A N J O S E , C A — B S K I N E S I O L O G Y, 2 0 0 8",Organization
+SALESFORCE TRAINING,Heading
+"S A L E S F O R C E U N I V E R S I T Y / / S A N F R A N C I S C O , C A — A D M I N I S T R AT I O N",Organization
+"ESSENTIALS FOR NEW ADMINS (ADM 201), 02.2017",Training
+VOLUNTEER EXPERIENCE,Interest
+"FA M I LY R E A D I N E S S G R O U P T R E A S U R E R / / F O R T B L I S S , T X — 2 0 1 1 - 2 0 1 2",Volunteer
+408.838.0898,Contact
+PHONE,Heading
+"8 9 8 N M A R Q U I S W AY / / M T N H O U S E , C A 9 5 3 9 1",Contact
+ADDRESS,Heading
+SNLIEZELE@GMAIL.COM,Contact
+EMAIL,Contact
+Eric Hooper,Name
+EDUCATION,Heading
+_________________________________________________________________________________________,Unknown
+"Bachelor of Science, Business Management; GPA, 3.7",Degree
+"Geneseo College, State University of New York, Geneseo, NY                                                           2007-2011                                                         Anthropology Major",Organization
+Salesforce University,Organization
+"-Administration Essentials for New Admins (ADM-201)                                                          Jan 30 – Feb 3, 2017",Training
+"-Programmatic Development Using Apex and Visualforce (DEV-450/Platform Developer 1)        Sept 11 – 15, 2017",Training
+VetForce                                                                                                                               Jan 2017 - Present,Organization
+Train in Salesforce Administrator through classroom instruction as well as heavy use of trailhead.,Training
+CERTIFICATIONS _________________________________________________________________________________________Salesforce.com,Heading
+Certified Administrator                                March 2017,Certification
+Platform App Builder                                     April 2017,Certification
+Certified Advanced Administrator                  June 2017,Certification
+Certified Platform Developer 1                        Oct 2017,Certification
+SKILLS / OTHER,Heading
+________________________________________________________________________________________,Unknown
+"Microsoft Office (Excel, Word, PowerPoint, Project, Visio)",Skill
+"Apex, SOQL/SOSL",Skill
+Visualforce familiarity,Skill
+Exposure to Tableau,Skill
+Data Analysis,Skill
+Project management,Skill
+Basic financial accounting,Skill
+Client presentations,Skill
+Team player,Skill
+Problem Solver,Skill
+Requirements gathering,Skill
+Detail-oriented,Skill
+WORK EXPERIENCE,Heading
+"Nonprofit Network Solutions, Salesforce Consultant, New York, NY                                         Oct 2017 – Present",Unknown
+Salesforce consultant for company that provides technology consulting services to nonprofits in New York City.  Company has recently expanded its services to include Salesforce consulting.,Bullet
+"Amazon Flex, Deliveries, New York, NY                                                                                          2015-Present",Organization
+Part-time independent contractor delivery work in Manhattan; study and train daily on the Salesforce platform.,Bullet
+"Anchor Associates / Metropolitan Property Group, Licensed Salesperson, New York, NY                    2011-2015",Title
+Marketed apartments using industry CRM platform as well as maintaining lead records to ensure accurate information and continuous contact; developed repeatable lead generation tactics through automated marketing and careful research to identify trends in a fast moving real estate market; gathered and documented requirements from clients and created plans of action for multiple clients at any given time; prepared and reviewed various documents including purchase rental agreements and lease contracts; negotiated lease terms on behalf of clients and advised them on various requirements and strategies.,Bullet
+MILITARY EXPERIENCE,Heading
+________________________________________________________________________________________,Unknown
+"United States Marine Corps, Combat Videographer, Non-Commissioned Officer,                               2002-2006",Unknown
+"Edited all approved combat and non-combat photographs for the 2nd Marine Aircraft Wing in Cherry Point, North Carolina and Al Asad, Iraq; assisted in the procurement of expensive audio / visual equipment and accessories from various suppliers, including analyzing price data from multiple suppliers, as well as performing cost-benefit analysis; supervised and mentored Marines and civilian personnel in the operation of high worth government owned media equipment; collaborated with military from different functions while contributing to the success of the 2005 Iraqi Constitutional Referendum; Managed expectations of high ranking officers in the procurement of photography support; held Secret security clearance and controlled and disseminated classified material according to strict government policies and procedure.",Bullet
+H O W A R D “ C H U C K ” L A T T I N,Name
+▪ (408)-728-2379 (C) ▪ howard.lattin@gmail.com,Contact
+EDUCATION__________________________________________________________________________________________________,Heading
+"University of California Berkeley, Walter A. Haas School of Business Dec ’15",Organization
+Bachelor of Science in Business Administration,Degree
+• Relevant Training: Introduction to Finance; Intermediate Accounting; Financial Statement Analysis and Corporate Valuation,Training
+• Leadership: Chief Financial Officer of Cal Veterans Group,Skill
+Workday Jan ‘16,Organization
+"• Certifications: Human Capital Management, Core Financials, Asset Management, Cash Management, Procurement, Customer",Certification
+"Contracts, Integrations, BIRT Report Writer, Payroll",Certification
+Salesforce Oct ‘17,Organization
+• Continuing Education: Vetforce – Salesforce Certification,Certification
+PROFESSIONAL EXPERIENCE_____________________________________________________________________________________,Heading
+"Salesforce San Francisco, CA",Organization
+Workday Analyst – Financials & HCM Nov ’17 – Current,Title
+"• Spearheaded Bi-weekly meetings with various stakeholders (Revenue Operations, Accounting, and HR) to determine business",Bullet
+requirements and analyze pain points; improved business efficiency with configuration and created automation among the,Bullet
+Workday platform,Bullet
+"• Launched, updated, and demoed Workday modules to the business stakeholders; configured Projects for Workday Financials and",Bullet
+"EMEA Time Off, Absence, and Benefit Plans for Workday HCM",Bullet
+"• Organized meetings for new Workday platform releases, informed the business of new Product updates while understanding their",Bullet
+needs and implementing new functionality,Bullet
+"• Smooth-lined the business with Workday Financial configurations; created more efficient financial reports, payment and",Bullet
+"banking integrations, Customer Contract module updates, Procurement updates, Elimination configuration, and Core",Bullet
+Accounting updates,Bullet
+"• Led HCM configuration updates; created various earnings, deductions, payroll configurations, time off accruals, calculated fields,",Bullet
+"security updates, one-time payments, compensation grade profile updates, and dashboards",Bullet
+"Workday Pleasanton, CA",Organization
+Associate Solutions Architect – Financials Mar ’16 – Oct ‘17,Title
+"• Proficient in Workday Financials; certified in cash management, core accounting, composite financial report writing, financial",Bullet
+"dashboards, asset management software, and EIB’s",Bullet
+"• Spearheaded deal support using Salesforce to train, advise, configure demo environments for solution consultants, and update",Bullet
+"new product release content; became product expert in cash management, composite financial reports, and assets functionality",Bullet
+• Demonstrated core accounting for the presales organization by building demo environments according to GAAP; created,Bullet
+"financial statements (Profit/Loss statement, Balance Sheet, Statement of Cash Flows), assets, procurement, settlement,",Bullet
+"dashboards, bank reconciliations, and revenue transactions",Bullet
+"• Participated in alignment meetings between Product, Field Readiness, and Customer Support; shared knowledge of prospect",Bullet
+"requests, master data design, and standings for the presales organization.",Bullet
+• Managed Product Champions teams for Assets and Cash Management; coordinated with solutions consultants and created,Bullet
+better demo environments to better position Workday Financials,Bullet
+Associate Business System Analyst – Human Capital Management Jan ’16 – Mar ‘16,Bullet
+"• Completed HCM Certification; create supervisory orgs through business process config, security, advanced reports, and iLoads",Bullet
+"• Participated in HR technology initiatives by assisting with business requirement gathering, project management, testing,",Bullet
+"documentation development, and business configuration",Bullet
+• Developed detailed project plans to monitor and track progress of Workday internal system projects for HR Ops and Integrations,Bullet
+"• Provided end-user support for users in HR, Recruiting, and Compensation; troubleshoot bugs and issues via research, testing,",Bullet
+scenario re-creation and document findings,Bullet
+H O W A R D “ C H U C K ” L A T T I N,Name
+▪ (408)-728-2379 (C) ▪ howard.lattin@gmail.com,Contact
+"Lawrence Livermore National Laboratory Livermore, CA",Organization
+Financial Analyst Jun ’14 - Aug ’14,Title
+• Calculated NPV of $36 million for the Livermore Valley Open Campus (LVOC) to estimate total operating lease rate for 15 years;,Bullet
+determined the annual and cumulative operating lease rate by factoring in various costs associated with the building,Bullet
+• Determined total funds of $32 million needed to start the LVOC project through pro-forma analysis; calculated total borrowing,Bullet
+amount to be financed through issuance of government bonds and the annual P&I payments of $2 million for that bond,Bullet
+Project Management Intern Jun ‘13- Aug ‘13,Title
+• Calculated the most cost efficient projects for renovations by comparing multiple on-site buildings and applying unit rates to,Bullet
+quantities along with factored & parametric cost modeling utilizing Microsoft Excel,Bullet
+"Fidelity Investments San Mateo, CA",Organization
+"Extern, Asset Management Feb ‘13",Title
+• Shadowed VP of Asset Management when consulting with Registered Investment Advisors about capital markets and,Bullet
+macroeconomic conditions; oversaw municipal market conditions and explained risks and rewards within the market place and,Bullet
+how the funds were positioned accordingly,Bullet
+"United States Army Fort Bragg, NC",Organization
+Team Leader/Rifleman Jul ’06 - Oct ‘10,Title
+"• Served under the 82nd Parachute Infantry Regiment, completing 19 low-altitude jumps out of a plane",Bullet
+• Team leader for a four-man team while serving in Iraq; strengthened new soldiers on team collaboration exercises; instructed,Bullet
+safety and training procedures for entering and clearing a building allowing soldiers to engage targets safely and efficiently,Bullet
+Heather Day-Neutill,Name
+22036 Collins St. Apt 108 N.,Contact
+"Woodland Hills, CA 91367",Contact
+818-661-0867 (cell),Contact
+hdayneutill@gmail.com,Contact
+Education,Heading
+Administration Essentials for New Admins,Training
+VetCloud CRM,Certification
+exercise and behavior modification for special needs children/adults,Training
+AEA Aquatic Fitness Professional,Title
+Part Time Office Manager (2002-2006),Title
+Certifications,Heading
+American Red Cross First Aid/AED/CPR Certification for Healthcare Professionals,Certification
+Aquatic Therapy and Rehabilitation Institute Certified Aquatic Therapist-pending,Certification
+Vet Assistant,Title
+(2010-2014),Date
+(2007-2008),Date
+Cat Volunteer,Title
+(1999-2007),Date
+Pre-Veterinary Club,Organization
+TN Collegiate Horseman’s Association,Organization
+University of Tennessee Equestrian Team,Organization
+Civic Engagement Community at the University of Kentucky,Organization
+Project Health-University of Kentucky,Organization
+Alpha Phi Omega-University of Kentucky,Organization
+References,Heading
+Donald Bohrisch,Name
+Salesforce Developer/Consultant,Title
+"Deloitte Digital, LLC",Organization
+314-365-1114,Contact
+Justin Raines,Name
+Salesforce Administrator,Title
+InTouch Health,Organization
+805-865-4294,Contact
+Alethea Crespo,Title
+"Physical Therapist, MPT",Title
+Director of Therapeutic Programming,Title
+Rose Bowl Aquatics Center,Organization
+626-487-4411,Contact
+Heather Day-Neutill,Name
+22036 Collins St. Apt 108 N.,Contact
+"Woodland Hills, CA 91367",Contact
+818-661-0867 (cell),Contact
+hdayneutill@gmail.com,Contact
+Michelle Bastelier,Name
+"Mountain View, California ● michelle@primed4.com",Contact
+Certified Salesforce,Certification
+Marketing Automation,Skill
+Analytics,Skill
+Project Management,Skill
+Experienced Salesforce professional and project manager leading highly visible projects that have a positive,Summary
+"impact on company profitability. Successful leading teams, managing budgets and driving projects to completion.",Summary
+"Knowledgeable with marketing automation, sales methodology, development and business process best",Summary
+practices. Salesforce certified.,Summary
+PROFESSIONAL EXPERIENCE,Heading
+"Ascot Consultants, Mountain View, CA",Organization
+Cyber Security Professional Services Firm,Unknown
+2012 to Present,Date
+"Consultant, Director of Sales Operations",Title
+"Responsible for helping drive leads, improving sales operations, analyzing performance and providing the",Bullet
+executive team with compelling and actionable recommendations for business planning and spend management.,Bullet
+Key Achievements:,Heading
+• Improved opportunity conversions by 45% with an in-depth analysis of business practice,Bullet
+recommendations and applied automation.,Bullet
+"• Used field validation, Workflow and Process Builder to automate manual activities, keeping data",Bullet
+clean and accurate.,Bullet
+• Built simple Apex Triggers to further improve efficiencies.,Bullet
+• Migrated company to Lightning UI.,Bullet
+• Planned and conducted requirement elicitation meetings with the business to collect functional and,Bullet
+non-functional requirements relating to Salesforce technology enhancement and initiatives.,Bullet
+• Prepared change management plans and functional requirement documents.,Bullet
+• Created data flow and built process flow diagrams to facilitate better system understanding.,Bullet
+"• Created new custom objects, assigned fields, designed page layouts, custom tabs and components.",Bullet
+"• Outlined the organization hierarchy and create profiles, roles accordingly in Salesforce; worked on",Bullet
+visibility and security settings around them as required by the business.,Bullet
+"Independent Marketing and Sales Operations Consultant, Los Altos, CA",Title
+2001 to 2012,Date
+Marketing and Sales Consultant,Title
+Projects:,Heading
+"• Drove delivery of campaign assets, including white papers, reports, and sales tools.",Bullet
+• Designed custom dashboards for various user groups based on their business needs.,Bullet
+• Created and deployed several reports for different user profiles based on the need in the organization.,Bullet
+• Designed various types of email templates for auto response to customers.,Bullet
+"• Spearheaded project, creating new dashboards to accurately communicate marketing results for CEO.MarketFirst, Mountain View, CA",Bullet
+Email Marketing SAAS Company,Unknown
+1999 to 2001,Date
+"Director, Sales Operations",Title
+"Reporting to the VP of Sales, took sales initiatives and turned them into a profitable channel program.",Bullet
+Key Achievements:,Heading
+"• Built channel sales organization from the ground up, developing compensation plans, pricing, territories,",Bullet
+"reporting, dashboards, and sales tools.",Bullet
+• Team delivered 150% of quota in the first seven months selling email marketing campaigns through large,Bullet
+national marketing service providers.,Bullet
+• Hired and mentored team of four senior channel sales managers.,Bullet
+"Clarify, San Jose, CA",Organization
+Customer Relationship Management (CRM) vendor; purchased by Nortel Networks.,Unknown
+1997 to 1999,Date
+"Senior Manager, Field Marketing Operations",Title
+Enhanced the overall effectiveness of the sales force in competitive selling situations.,Bullet
+Key Achievements:,Heading
+"• Drove the implementation of Jamcracker, a sales effectiveness tools, across the world-wide sales",Bullet
+organization; creating far more accurate forecasting and reporting.,Bullet
+"• Responsible for all sales content including competitive analysis, customer success stories, market analysis",Bullet
+"reports, references, sales presentations, white papers, and executive investment relations briefings.",Bullet
+"• Recruited, hired and managed five senior, high-performing team members.",Bullet
+"Oracle Corporation. Redwood Shores, CA",Organization
+Global leader in database and application software.,Unknown
+1994 to 1997,Date
+"Market Analyst, Market Intelligence Group",Title
+"Market intelligence database management, content creation.",Bullet
+Key Achievements:,Heading
+"• Primary field support for competitive data, sales strategy and market intelligence.",Bullet
+• Primary and Secondary research projects.,Bullet
+• Created sales playbooks for sales teams.,Bullet
+Syntex Pharmaceuticals (acquired by Roche Holdings),Organization
+Medium-sized pharmaceutical company,Unknown
+1991 to 1994,Date
+Data Analyst,Title
+"Data Analyst, Naprosyn",Title
+Key Achievements:,Heading
+• Provided programming leadership for preparation of datasets to FDA.,Bullet
+"• Developed software systems to generate displays of clinical study data as tables, listings, and graphs for",Bullet
+electronic submission to regulatory agencies,Bullet
+EDUCATION,Heading
+"California Polytechnic State University, San Luis Obispo, CA",Organization
+Management Information Systems,Certification
+Technical Training,Heading
+Adobe Experience Manager 6 CMS Author Training – September 2014,Certification
+Certified Salesforce Administrator License #17120157,Certification
+1991,Date
+Cory Hinrichs,Name
+5524 Fremont Street,Contact
+"Lincoln, Nebraska, 68504",Contact
+USA,Contact
+(402) 540-2758,Contact
+Cory.Hinrichs@gmail.com,Contact
+www.linkedin.com/in/chlnkneusa,Contact
+EXPERIENCE,Heading
+"Customer Service - Southwest US Region, Division ContiTech of Continental AG",Unknown
+February 2015 - Present,Date
+Always set the example to answer every incoming call on the first ring.,Bullet
+"Supported the success of the #1 Salesperson in 2016 for Southwest Region and USA, achieving 140% AOP, with positive sales growth in all assigned product categories.  Personally assigned by the Customer Service Manager to create and manage the Hydraulic growth programs and initial stock orders for Tompkins, covering multiple locations and over $1M in first year sales, while maintaining discretion and confidentiality prior to public corporate and industry announcements.  Partnered for ""meet and greet"" personal introductions to Tompkins account leadership, sales, and support personnel to establish and maintain open and genuine rapport.   Recommended reducing incoming call notification time from 30 seconds to 15 seconds, allowing other representatives a second chance to answer and respond, resulting in 98% answer and 15.8 seconds average response time for 2016.  Selected for the second Merivis Foundation Cohort to receive formal Salesforce training and mentoring.  Completed over Salesforce 50 training modules in less than one year.  Trained three new associates in order management, and how to find and suggest alternative solutions to save orders that may otherwise deliver late or cancel.  In 2016, as the new United Way Salary Coordinator, planned a successful campaign with the Plant Manager and Hourly Coordinators, and raised over $50K to support local charities.",Bullet
+"Customer Service - Southwest US Region, Veyance Technologies, Inc., acquired by Division ContiTech of Continental AG",Unknown
+March 2013 - January 2015,Date
+"Client Technical Support Associate, Medstar Health, Dell Services",Unknown
+June 2011 - March 2013,Date
+"Technical support for nine hospitals and 20 other health-related businesses across Maryland and the Washington, D.C. region, with more than 26,000 associates and 5,300 affiliated physicians supporting over a half-million annual patients.",Bullet
+"HQ Commandant / Base Defense Operations Center (BDOC) Commander, Combined Joint Special Operations Task Force - Bagram, Afghanistan (CJSOTF-A)",Unknown
+November 2011 - October 2012,Date
+"Real estate, security, building, equipment, and maintenance manager of a base camp @ 1M square feet, with a joint operations command center (JOC), base defense operations center (BDOC) with assigned security personnel and Special Forces Operational Detachment Alpha (SFOD A), central receiving and shipping point (CRSP), contracting office, food service facility, medical clinic, maintenance hangar, military working dog kennel, fitness center, laundry, postal office, forge, library, local national shops, barber, and restaurant, over 90 living areas housing over 500 deployed and transient personnel, and 150 government and contract personnel deployed throughout the country. Responsible for over $60M of property, over 430,000 end items and components. In the first week, I disassembled and repaired all of the washers and dryers, initiated contract purchase for commercial laundry equipment, then put the new equipment on maintenance contract to achieve one day service, in comparison to 72-96 hour service from the main post laundry. Initiated technical inspections, letters of justification, and statements of work to gain LOGCAP maintenance support for Camp Vance facilities and utilities. Initiated a partnership with MWR to order new fitness equipment. Directed the purchase and emplacement of 1000 cubic meters of crushed rock to reduce and eliminate disease vectors. Negotiated free SPAWAR internet access with on-site technician, and commercial wireless internet for all living quarters and common areas. Planned, executed, and improved the base defense plan, and installed new active warning systems. Supported the Afghan Business Enterprise Program to develop new areas of goods and services. Scheduled and conducted food service, sanitation, and fire prevention training for Aziz Restaurant to comply with military and commercial standards, and ran Camp Vance Saturday Pizza Nights. Recovered $13M of property from 102 locations across Afghanistan.",Bullet
+"Private E-1 to Promotable Captain CPT(P), Nebraska Army National Guard",Title
+April 1987 - April 2011,Date
+"Senior Human Resources Officer (S1), Task Force Durable, 1st Sustainment Brigade",Title
+April 2010 - March 2011,Date
+"Human resources (HR) support for over 1000 assigned, attached, and deployed Sustainment Brigade personnel. HR support included personnel readiness management, personnel accountability, strength reporting, R5 operations (Reception, Replacement, Return-to-Duty, Rest and Recuperation, Redeployment), casualty operations, essential personnel services, postal operations, morale, welfare, and recreation (MWR) operations, and HR planning. Essential personnel services included military pay, awards and decorations, evaluations, ID documents, promotions, and personnel actions.  Selected by the Department of the Army for promotion to Major. Awarded 3rd Army Commendation Medal, Military Outstanding Volunteer Service Award, and the Adjutant General’s Corps Regimental Association Achievement Medal.",Bullet
+"Senior Human Resources Officer (S1), Riley Mobilization & Deployment Brigade (RMDB)",Title
+August 2009 - March 2010,Date
+"The Riley Mobilization and Deployment Brigade (RMDB) provided leadership and service support to active duty, Army Reserve, and Army National Guard Soldiers in support of mobilization / deployment activities and the Transition Team redeployment mission.",Bullet
+"Commander, 623rd Vertical Engineering Company",Title
+February 2008 - August 2009,Date
+"Leader of a vertical construction unit, detachment, and firefighter teams, over 150 personnel and over $7M in durable equipment. Leader of Nebraska's Homeland Defense CERFP Search and Extraction Element.  Awarded 2nd Meritorious Service Medal in June 2008 for achieving a 100% rating on all CERFP team validation tasks, and 2nd Army Commendation Medal.",Bullet
+"Service Pro # 49960, OnForce",Title
+October 2008 - July 2009,Date
+https://www.onforce.com/?page=pro_view&id=49960,Unknown
+100% positive feedback rating for 11 work orders,Bullet
+"Delivery Department Manager, Lowe's",Unknown
+March 2007 - September 2008,Date
+"Hired to open a new store with annual sales of $27M, train and lead a team of 10 drivers and loaders, and maintain three vehicles. Facilitated efficient delivery by scheduling, routing, and management of drivers and vehicles, payroll, and other controllable expenses. Increased customer service ratings 12% in the store's first fiscal year, from 77% in Q3, to 89% in Q4. Achieved 100% in Q2 2008, becoming the #1 delivery team in the company.  Completed additional sales training certifications in Production Office, Installed Sales, Appliances, and Special Order Sales.",Bullet
+"Transportation Security Officer, TSA, Department of Homeland Security",Unknown
+November 2003 - March 2007,Date
+Earned $2344.00 in cash awards and 16 vacation hours for job performance.,Bullet
+EDUCATION,Heading
+"Bachelor of Science, Business Information Systems, Bellevue University, 2001 - 2003",Degree
+"Commission, Officer Candidate School (OCS), Nebraska Military Academy, 1997 - 1998",Degree

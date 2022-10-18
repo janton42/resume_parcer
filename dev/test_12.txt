@@ -1,0 +1,83 @@
+ Kevin Garrett
+San Francisco, Ca
+https://www.linkedin.com/in/kevingarrett
+Mr.kevin.garrett@gmail.com
+
+Salesforce Certified Administrator
+Navy veteran and Salesforce Administrator|Consultant|Trainer|Learner with experience in showing client how to use Salesforce to automate processes and add value to their organization 
+Professional Development  
+Salesforce University 
+Administration Essentials for Experienced Admins, Virtual                                                  May 2017 
+Intensive online course designed to give existing Salesforce admins advance administrator skills to expand the scope and complexity of configuring Salesforce orgs in classic or Lightning
+Npower, San Mateo, Ca                                                                                                                    January 2016 to July 2016
+Earned the CompTIA A+ Certification and give them hands on training in tech.
+Trained in ServiceNow and used ServiceNow case support to service customers for Stanford Hospital
+Palo Alto Networks                                                                                                                                                January 2017
+Firewall: Install, Configure, and Manage (EDU-201)
+Attended 5-day course on configuring Palo Alto Networks Firewalls. Earned the Accredited Configuration Engineer (ACE) Exam - PAN-OS 7.0 Version
+
+Trailhead  
+Completed over 20 badges and projects.
+
+ 	 
+    • Created an Apex Class
+    •   Salesforce CPQ Basics
+
+    • Added a Standard Controller to Visualforce page
+    • Reports & Dashboards
+    • Added a Method to the Class
+
+    • Invoked and Tested the code
+
+
+Experience
+
+Salesforce Administrator/ Solution Consultant                                                                  January 2017 to Present   
+Assist organization in training staff and stake holders in using and implementing new and enhanced features and capabilities within Salesforce. Collaborate with stakeholders to create, test and deploy solutions within Salesforce. Understanding of Partner Relationship Management by optimizing Partner Life Cycle 
+
+	Clients
+                 
+
+                Partner Portal Design and Implementation Team
+    • Contributed to layout and design of community templates for Partner, customer and community portals 
+    • Help create Rollout Strategy
+    • Enabled Employee and Partner communities within Salesforce
+    • Managed sandboxes and performed testing
+    • Migrated Communities from Sandbox to Production
+
+Vietnamese Youth Development Center (VYDC), San Francisco, CA                        July 2017 Present
+    • Gathered requirements to design custom solution to aid organizations in decision making and expanding their organization’s capabilities
+    • Assist organization in training staff and stake holders in using and implementing new and enhanced features and capabilities within Salesforce. Collaborate with stakeholders to create, test and deploy solutions.
+    • Created custom reports and dashboards that outlined clients program engagement and participation and send out monthly reports to stake holders   
+    • Automated manual reporting requirements that resulted in a time reduction of over 50 percent 
+                 Ashby Village                                                                                                         March 2017 to Present
+    • Advised clients in choosing 3rd party apps form the App Exchange based on business requirements
+    • Advise client on Data Management Best Practices and to migrate data to Salesforce Data Loader
+    • Gathered business requirements for clients to automate business processes through creating            workflow rules and process builder  
+    • Created email notifications, email alerts, and auto responses for client       
+    • Creating end user training videos, technical documentation, and online knowledge base to support wide spread adoption and buy end from users throughout the organization                                                                          
+	   
+Menlo Park VA Medical Center, Menlo Park, CA                                                         October 2015 to July 2017
+Case Manager
+Treatment team member that provided inpatient treatment services in a residency program. Program is geared towards providing patient education
+    • Initiated and designed a Prototype housing web app from program requirements
+    • Designed an information system that allowed healthcare providers the ability to streamline training and        resources centered around the issue of Veteran Homelessness 
+Menlo Park VA Medical Center, Menlo Park, CA                                                  August 2014 to September 2015
+Peer Support Housing Specialist 
+Accessed and maintained Patient records in accordance with HIPAA and other applicable Patient Privacy laws.
+    • Designed an Information System that allowed Treatment Team members to collect, access and update critical patient’s data securely even in a field environment of limited to no network connectivity 
+    • Provided individual instruction on navigating and accessing apartment searches through online based apartment databases 
+City College of San Francisco, San Francisco, CA		                                    September 2013 to May 2014 
+Shared Governance Coordinator 
+
+    • Promoted, organized, and created campus wide events and campaigns spread awareness about accreditation and participatory governance that resulted in thousands of students attending the events 
+    • Gave weekly & monthly reports to stakeholders 
+
+Skyline College, San Bruno, CA			                                                 September 2012 to August 2013
+Student Senator
+
+    • Promoted a variety of events, actively participated as the student representative in many college committees including: Curriculum, Educational Policy, and College Governance. 
+
+                                                                          Education                          
+City College of San Francisco, San Francisco, CA			                                 
+Finance Major; Communications Minor	     

@@ -1,0 +1,86 @@
+ANISUZZAMAN KHAN
+682-241-5306 												        Dallas, TX
+azkhan.dba@gmail.com 										          	        LinkedIn
+
+PROFESSIONAL SUMMARY
+
+3X Certified Salesforce Administrator, Professional Scrum Master, Business Analyst and Military Veteran with over 8 years of proven ability to interact and collaborate with multiple levels of management and diverse cultural audiences. Accomplished measurable results while leading teams in a dynamic, fast - paced environment. Comprehensive background in Territory Management encompassing sales and business analysis derived from conducting domestic and global operations. 
+
+    • Strategic Planning	
+    • Emergency Administration
+    • Team Leadership
+
+    • Conflict Resolution
+    • Training and Development
+    • Project Management
+
+    •    Business Continuity Preparedness
+    • Resource Allocation
+    • International Relations
+
+PROFESSIONAL EXPERIENCE
+
+Business Plan Solutions, Dallas, TX                         					                           	 	2017                                                                        CRM Consultant 
+                                                                           
+    • Design complex integrations to facilitate seamless interactions between multiple systems to provide real time information to Commercial Teams and for automation of Pipeline reporting. 
+    • Manage monthly enhancement releases delivering top priority platform enhancements/change requests along with fixing critical production defects. Works closely with each platform to implement prioritization processes to ensure that the highest impact requests are delivered. 
+    • Manage multiple global social media Salesforce.com (SFDC) software projects simultaneously across numerous application teams throughout the product development life cycle.
+    • Manage the process from project initiation, vendor selection, scoping, resource planning, budgeting, agile development, change management through to production release
+    • Identify opportunities for process optimization, process redesign and development of new process and policies 
+    • Lead all quantitative and qualitative data efforts / collection / execution in support of projects and lead cross-functional teams to redesign core business processes and reporting.
+    • Manage implementation of large-scale, complex, multi-disciplined, cross functional and highly visible projects/programs and develop training materials as needed.
+    • Manage technical problems to solve complex technical issues and maintenance of SF architecture.
+
+Intrigue IT Solutions - Dallas, TX 									        2015-2016
+Salesforce Administrator and Operation Analyst
+
+    • Manages user permissions, roles, case management rules, role hierarchy rules, and other user activities 
+    • Manages the creating and updating of workflows, workflow approval processes, modifying customize objects, fields, and pick list values
+    • Collaborates with executives and sponsors to identify the requirements, project objective, and scope changes 
+    • Solves the user cases on daily basis and communicate with users globally to fix issues
+    • Develops complex reports in IBM Cognos Report Studio to create lists, charts, cross-tab, Dashboard and automated reports with the features like drill-through and conditional formatting to assist the business team
+    • Implements Case Management Automation (on Case Object) to track and solve end users’ issues while maintaining the highest level of record security as well regular maintenance of SF health checks and data clean-ups.
+    • Responsible for all activities related to configuring data loader, uploading data into CSV files to Salesforce, making sure imported data is clean
+    • Reviews the project charter, and BRD  to ensure that all business requirements and technical design criteria are met
+Petroskills - Norman, OK 										    2013-2014
+Salesforce Business Analyst/Administrator 
+    • Interacted with various business team members to gather the requirements and documented the requirements
+    • Designed, diagnosed and implemented Salesforce.com security model for 130 users including setup of profiles, organization wide defaults, territories, roles and sharing rules, Cloud, Chatter & App-exchange applications
+    • Involved in Salesforce Application Setup activities and customized the apps to match the functional needs of the organization and the technical support team.
+    • Used Salesforce Automation (SFA) for Sales Lead Management, Account and Contact Management and Approvals and Workflows keeping the end user in mind.
+    • Managed the UAT testing efforts with business users from legacy CRM systems
+    • Implemented formal change management (CR) process and provided training to implementation team to eliminate scope creep
+    • Worked in close coordination with the Informatica integration team to define, diagnose and map system objects, data elements and transformation logic between systems 
+    • Assisted additional teams responsible for integrations to/from SAP, DW, Billing and other legacy systems 
+    • Actively assisted the system administration and deployment teams on configuration, deployment and implementation procedures and best practices.
+    • Responsible for deployment to production including management of deployment logs and go-live release schedule
+
+ADP, Long Island, New York   				 					    2011 –  2013
+Business Analyst
+    • Consulted with business team to identify, define and document business needs and objectives, current operational procedures, problems, input and output requirements. Developed detailed functional and technical requirements from the high-level business requirements shared by stakeholders; prioritized the requirements for development
+    • Developed an understanding of how present and future business needs will impact the solution; developed a risk analysis document. Provided guidance to the project team regarding the in-depth business domain and assist them in technology development. Participated in multiple Agile Ceremonies at various stages of the project
+
+United States Army, Fort Jackson, SC                                                                                                          2007 – 2011 
+Healthcare Specialist
+    • Supervised 10 personnel and managed the Urgent Care Clinic at Moncrief Army Community Hospital.
+    • Conducted physical health assessments to increase personnel readiness, and completed administrative requirements and safety/risk management courses. Adhered to medical protocols and organizational procedures at all times, and collaborated with other staff members for cohesive operations
+
+EDUCATION
+
+University of Oklahoma, Norman, OK 
+Bachelor of Science, Petroleum Engineering
+
+University of Dhaka, Bangladesh 
+Bachelor of Social Science, Economics
+
+TRAINING / CERTIFICATIONS
+
+Salesforce Administrator, Platform App Builder, Platform Developer 1 Certification
+Professional Scrum Master 1 Certification, Lean Six Sigma Green Belt Certification
+Languages: Bengali, English, Hindi, French, Arabic
+Eclipse, CMG, Salesforce, Visual Basic, Java, R, Python, SQL Server, SSRS, MS Access, Oracle, Matlab, Maple,  IBM Cognos, JIRA, Tableau, Business Objects XI, T-SQL, PL/SQL.
+
+
+
+
+

@@ -1,0 +1,64 @@
+Willis Stowe
+5807 Boxelder Dr.
+Whitestown, IN 46075
+765-412-5670
+wirstowe@gmail.com
+PROFESSIONAL EXPERIENCE
+ELEVATE VENTURES
+Business Applications Analyst
+
+
+
+INDIANAPOLIS, INDIANA
+March 2017 – Present
+Managed Salesforce organization of 20 users as primary administrator
+Created several projects using Visualforce pages and Apex
+Managed Office 365 and SharePoint environment for 20 users
+HERRON HIGH SCHOOL
+Intern
+
+
+
+INDIANAPOLIS, INDIANA
+August 2015 – March 2017
+Assisted director of operations in physical safety and security of students and staff.
+Worked on several projects for school involving school website and SalesForce program.
+Managed move and support of school server room.
+HOME DIRECT USA
+Direct Recovery Team Member
+
+
+
+PLAINFIELD, INDIANA
+December 2012- January 2015
+Responsible for physical tracking of inbound returned products.
+Handled physical inspections and quality of returned products.
+Oversaw transfer of warehouse inventory to new location.
+CINTAS
+Health and Safety Team Member
+
+
+
+INDIANAPOLIS, INDIANA
+December 2010 - December 2012
+Responsible for keeping two locations up to OSHA standards.
+Led training seminars for up to 30 partners.
+Worked on inventory management under AS 400 software.
+UNITED STATES ARMY
+Firefighter
+
+
+
+CAMP ATTERBURY, INDIANA
+October 2005 - March 2010
+Responsible for daily upkeep of all station equipment.
+Performed emergency response duties for service location of 200 people.
+Entered and maintained all electronic copies of incident report per national standard.
+EDUCATION
+IVY TECH COMMUNITY COLLEGE INDIANAPOLIS, INDIANA
+IUPUI INDIANAPOLIS, INDIANA
+
+Bachelor of Science in Computer Information Technology
+ADDITIONAL SKILLS
+
+Salesforce Certified Administrator, Advanced Administrator, and Platform App Builder

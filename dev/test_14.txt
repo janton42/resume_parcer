@@ -1,0 +1,86 @@
+Michelle Bastelier
+Mountain View, California ● michelle@primed4.com
+Certified Salesforce
+Marketing Automation
+Analytics
+Project Management
+Experienced Salesforce professional and project manager leading highly visible projects that have a positive
+impact on company profitability. Successful leading teams, managing budgets and driving projects to completion.
+Knowledgeable with marketing automation, sales methodology, development and business process best
+practices. Salesforce certified.
+PROFESSIONAL EXPERIENCE
+Ascot Consultants, Mountain View, CA
+Cyber Security Professional Services Firm
+2012 to Present
+Consultant, Director of Sales Operations
+Responsible for helping drive leads, improving sales operations, analyzing performance and providing the
+executive team with compelling and actionable recommendations for business planning and spend management.
+Key Achievements:
+• Improved opportunity conversions by 45% with an in-depth analysis of business practice
+recommendations and applied automation.
+• Used field validation, Workflow and Process Builder to automate manual activities, keeping data
+clean and accurate.
+• Built simple Apex Triggers to further improve efficiencies.
+• Migrated company to Lightning UI.
+• Planned and conducted requirement elicitation meetings with the business to collect functional and
+non-functional requirements relating to Salesforce technology enhancement and initiatives.
+• Prepared change management plans and functional requirement documents.
+• Created data flow and built process flow diagrams to facilitate better system understanding.
+• Created new custom objects, assigned fields, designed page layouts, custom tabs and components.
+• Outlined the organization hierarchy and create profiles, roles accordingly in Salesforce; worked on
+visibility and security settings around them as required by the business.
+Independent Marketing and Sales Operations Consultant, Los Altos, CA
+2001 to 2012
+Marketing and Sales Consultant
+Projects:
+• Drove delivery of campaign assets, including white papers, reports, and sales tools.
+• Designed custom dashboards for various user groups based on their business needs.
+• Created and deployed several reports for different user profiles based on the need in the organization.
+• Designed various types of email templates for auto response to customers.
+• Spearheaded project, creating new dashboards to accurately communicate marketing results for CEO.MarketFirst, Mountain View, CA
+Email Marketing SAAS Company
+1999 to 2001
+Director, Sales Operations
+Reporting to the VP of Sales, took sales initiatives and turned them into a profitable channel program.
+Key Achievements:
+• Built channel sales organization from the ground up, developing compensation plans, pricing, territories,
+reporting, dashboards, and sales tools.
+• Team delivered 150% of quota in the first seven months selling email marketing campaigns through large
+national marketing service providers.
+• Hired and mentored team of four senior channel sales managers.
+Clarify, San Jose, CA
+Customer Relationship Management (CRM) vendor; purchased by Nortel Networks.
+1997 to 1999
+Senior Manager, Field Marketing Operations
+Enhanced the overall effectiveness of the sales force in competitive selling situations.
+Key Achievements:
+• Drove the implementation of Jamcracker, a sales effectiveness tools, across the world-wide sales
+organization; creating far more accurate forecasting and reporting.
+• Responsible for all sales content including competitive analysis, customer success stories, market analysis
+reports, references, sales presentations, white papers, and executive investment relations briefings.
+• Recruited, hired and managed five senior, high-performing team members.
+Oracle Corporation. Redwood Shores, CA
+Global leader in database and application software.
+1994 to 1997
+Market Analyst, Market Intelligence Group
+Market intelligence database management, content creation.
+Key Achievements:
+• Primary field support for competitive data, sales strategy and market intelligence.
+• Primary and Secondary research projects.
+• Created sales playbooks for sales teams.
+Syntex Pharmaceuticals (acquired by Roche Holdings)
+Medium-sized pharmaceutical company
+1991 to 1994
+Data Analyst
+Data Analyst, Naprosyn
+Key Achievements:
+• Provided programming leadership for preparation of datasets to FDA.
+• Developed software systems to generate displays of clinical study data as tables, listings, and graphs for
+electronic submission to regulatory agencies
+EDUCATION
+California Polytechnic State University, San Luis Obispo, CA
+Management Information Systems
+Technical Training
+Adobe Experience Manager 6 CMS Author Training – September 2014
+Certified Salesforce Administrator License #17120157
+1991

@@ -1,0 +1,63 @@
+Bernard Foster
+Smyrna, GA 30082                                                Cell (404) 661-6742  bernarddfoster@gmail.com
+
+Summary	
+Bernard Foster is a Solutions Architect with a vast amount of Salesforce, CRM and CLOUD implementation and consulting experience for client organizations in the consumer goods, government, telecommunications, high-tech manufacturing and utilities industries.  Additionally, he is also a certified Salesforce Administrator.  Expert skills include strategic assessment, design and implementation expertise in application development and systems integration.  Bernard holds a Bachelor of Science degree in Industrial Engineering and is an Oracle Certified Consultant.  He has consistently maintained a very high utilization rate (+ 90%), has personally generated over $4 million in services revenue during his consulting career, and excels in transforming customer requirements into application functionality.
+Professional Experience
+
+Research 1, Inc                              Salesforce Administrator/Consultant                          January 2013 to Present
+As a Salesforce Administrator in Research 1's Information Technology organization, Bernard delivers full lifecycle Salesforce implementations to the client using the Salesforce Sales application.  He is responsible for supporting clients with all Salesforce related issues. Additionally, his responsibilities include application customizations, implementation of validation rules, data imports/exports, workflow processes and approval processes.  Also responsible for using Workbench to interact with SFDC organizations via the Force.com APIs.  
+
+    • Served as the Salesforce Administrator for Research 1 and delivered a custom application from planning and analysis to implementation and deployment.  This is a highly customized application and consists of several Custom Objects, Custom Fields, Page Layouts, Custom Tabs, Reports and Dashboards along with various other components as per the client and application requirements.  Also responsible for role hierarchy, custom profiles and public groups creation and user management.   
+    • Responsible for gathering requirements via documentation, questionnaires, and interviews with stakeholders and management teams.  Conducted meetings with engineering and management teams fully describing desired features and operations in detail, including screen layouts, business rules, process diagrams, pseudo code, and design documentation.   
+    • Responsible for troubleshooting and resolving technical issues related to the Salesforce implementation.  Set the technical direction for the overall Salesforce Application direction by researching and recommending new concepts.  Responsible for the overall health of the entire application platform and provides expertise in working with Data Import Wizard, Apex Data Loader and Workbench for Data Management.  
+ 
+Oracle                                                        Solutions Architect                                               August 2013 to Present
+As a Solutions Architect in Oracle's Global Information Technology organization, Bernard delivers full lifecycle implementations to clients using Oracle Service Cloud and Right Now (CX) applications and manages the technical aspects of enterprise level implementations with the assistance of project technical resources.
+
+    • Served as the Solutions Architect for Oracle’s internal clients and delivered a custom application from conceptualization to Phase 1 Go-Live.  The application is an international application consisting of several Custom Objects and numerous Validation Rules, Workflow Process and Data Loads.  
+    • Responsible for the overall health of Global Linux Mid-Tier servers, providing technical expertise in the Incident Management process and working within the Incident/Request queue ensuring that the underlying cause of all incidents are addressed.  Additionally, responsible for ensuring all customer service level agreements (SLA) are fulfilled.  
+    • Worked closely with cross function teams including sales, engineering, product development and related organizations.
+
+Oracle                                                       Principal Engineer                                             July 2012 to August 2013 
+As a Principal Engineer in Oracle’s Global Information Technology organization, Bernard led a technical team providing second level support for business customers, maintained communication with management providing input on identifying issues and providing a resolution path and managed the deployment of quick fixes and patches to the development, stage and production environments.    
+
+    • Served as the Lead Architect responsible for conducting and actively participating in project meetings during software development lifecycle. Provided expertise in evaluation of testing requirements throughout duration of project.  Expert troubleshooting and problem solving skills with success at issue resolution.  
+    • Responsible for the integration of Oracle, Siebel, and PeopleSoft applications with the Contact Center Anywhere (CCA) telephony application.  
+    • Coordinated the deployment of quick fixes, patches, and enhancements to resolve issues for more than 60 servers located around the globe.  Putty, WinRar and Filezilla, provided access to UNIX servers for maintenance, deployment of CCA and TAW war files, database backups, and periodic updates to call center resources.  
+Oracle                                                       Principal Consultant                                             July 2006 to July 2012
+As a Principal Consultant in Oracle’s consulting organization, Bernard has led application configuration teams on various full life cycle implementations. Technical skills include Siebel Tools 8, 7.x/ Configuration/Workflow/EIM/eScript/Actuate Reports. Domain experience includes Siebel eCommunications, Siebel Call Center, Siebel Public Sector and Siebel Sales and Service along with defined Business Strategy and Architecture Road Maps with corporate CIOs to set corporate initiatives. 
+
+    • Administered regular meetings to provide the customer with updates on project deliverables, discuss project documentation, and provide weekly status reports on project details.  
+    • Configured Account, Contact and Address Management as per the client requirements.  Additional configuration included creating custom Business Objects, Business Components, and Fields along with custom Screens, Views, and Applet Controls per requirements.     
+    • Created virtual Business Component with custom code for additional functionality and validation.  Worked on Business Services and eScript to implement business functionality in Contact and Address Management as per the business requirements.  Implemented declarative configuration alternatives using data validations, user properties, workflows and run time events as opposed to extending the functionality of the application using Siebel eScript.
+
+Siebel Systems, Inc                                    Siebel Architect                                                 August 2005 – July 2006
+Responsible for communicating directly with customer IT personnel on the design, development, and implementation of Siebel CTI Call Center for Siebel eCommunications application.  This included conducting gap analysis, gathering business requirements, and the development of design documentation. 
+
+    • Completed installation and configuration of the Genesys GPlus Adapter Voice Component for Siebel 7, development and integration of the CTI definition file to meet customer business requirements.  Additional responsibilities included identifying, troubleshooting and resolving CTI related issues.  
+    • Completed hands on application configuration and customization of the CTI toolbar.  This included using eScript with custom business services to provide advanced screen pop capabilities, customization of command events used with outbound calls, and additional customization of inbound call events.  
+    • Led weekly team meetings to provide customer with updates on project deliverables, discuss project documentation, and provide weekly status reports on project details.  Also communicated with call center managers from around the globe to discuss the impact of any issues, corrective actions taken and desired resolutions.  Consulted with management personnel on the implementation of solutions required for resolving any production related issues.  
+
+Siebel Systems, Inc                                       Principal Consultant                                    January 1999 – July 2005
+ 
+    • Managed the implementation of Siebel CTI Call Center application and Genesys Gplus Adapter.  Implementation included replacing the customer’s existing MTS VIC application with Siebel’s Call Center module functionality.  This required both advanced configuration of Siebel Communication business objects to meet requirements of the Siebel CTI toolbar and advanced customization of business services to meet requirements of the inbound call screen pop to Accounts screen.
+    • Consolidated inbound screen pop data to meet customer requirements of populating fields with the most important call information necessary for the call. Completed detailed design documentation of CTI functional requirements and proposed resolutions.
+    • Led daily status meetings with customer to provide updates on Siebel CTI and call coding implementation, GPlus Adapter configuration, and issue resolution.
+    • Successfully completed the customization of outbound dialing filter rules used by the NPA NXX and line numbers.  This involved creating a new Siebel project, several business service methods, and modification of the dialing rules section.  Additional responsibilities included configuring hoteling features giving multiple agents the ability to log into one computer, modification of the Siebel JS library files to implement Call Hold Timer and After Call Work Timer, and the addition of non-standard items to the Siebel CTI toolbar.
+
+Education  
+
+Southern Polytechnic State University, Marietta, GA (SPSU)
+Bachelor of Science in Industrial Engineering 
+
+United States Marine Corps/USAF Reserves/Operation Desert Storm Veteran 
+
+Certifications
+
+    • Salesforce Administrator Certification
+    • Oracle Service Cloud Application, Right Now (CX) Cloud
+    • Oracle Knowledge Application
+    • Apttus Quote to Cash (QTC) Certification (CPQ Module)
+
+https://www.linkedin.com/in/bernard-foster-1243184
