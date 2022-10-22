@@ -1,0 +1,15 @@
+Bullet Model:
+	model_name = raw_rf (raw features using a Random Forest classifier)
+
+	Validation Set Results:
+		Accuracy: 0.906
+		Precision: 0.914
+		Recall: 0.86
+		Latency: 0.129ms
+
+	Test Set Results:
+		Accuracy: 0.93
+		Precision: 0.928
+		Recall: 0.877
+		Latency: 0.038ms
+
